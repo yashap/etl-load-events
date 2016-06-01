@@ -1,0 +1,15 @@
+---
+  - name: Add Java 8 apt-repository
+    apt_repository: repo='ppa:webupd8team/java' update_cache=yes
+
+  - name: Automatically select Oracle license during installation
+    shell: echo debconf shared/accepted-oracle-license-v1-1 select true | debconf-set-selections
+
+  - name: Automatically see Oracle license during installation
+    shell: echo debconf shared/accepted-oracle-license-v1-1 seen true | debconf-set-selections
+
+  - name: Install Oracle JRE 8
+    apt: pkg=oracle-java8-installer state=latest
+
+  - name: Automatically set up Java 8 environment variables
+    apt: pkg=oracle-java8-set-default state=latest

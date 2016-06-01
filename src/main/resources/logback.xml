@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+  <!-- Appenders that can be attached to loggers -->
+  <include resource="logback-appenders.xml" />
+
+  <!-- Loggers -->
+  <logger name="com.github.yashap" level="DEBUG" />
+
+  <!-- Root logger -->
+  <root level="INFO">
+    <appender-ref ref="STDOUT" />
+  </root>
+
+</configuration>

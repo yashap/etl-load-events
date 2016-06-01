@@ -1,0 +1,500 @@
+{"event_id": "3cb468b8-d4d3-4ad4-9272-6e411aa9513f", "timestamp": "2016-03-16 08:06:22", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2363, "event": "scroll_stream"}
+{"event_id": "f4294b61-0961-469c-b092-74606abdec4e", "timestamp": "2016-03-16 08:12:18", "user_id": 3164, "event": "web_login"}
+{"event_id": "f4294b61-0961-469c-b092-74606abdec4e", "timestamp": "2016-03-16 08:12:18", "user_id": 3164, "event": "web_login"}
+{"event_id": "f4294b61-0961-469c-b092-74606abdec4e", "timestamp": "2016-03-16 08:12:18", "user_id": 3164, "event": "web_login"}
+{"event_id": "bd25de54-f54a-4387-a63c-53737fcebece", "timestamp": "2016-03-16 08:13:07", "extra_data": {"social_network_type": "Facebook"}, "user_id": 9338, "event": "scroll_stream"}
+{"event_id": "bd25de54-f54a-4387-a63c-53737fcebece", "timestamp": "2016-03-16 08:13:07", "extra_data": {"social_network_type": "Facebook"}, "user_id": 9338, "event": "scroll_stream"}
+{"event_id": "bd25de54-f54a-4387-a63c-53737fcebece", "timestamp": "2016-03-16 08:13:07", "extra_data": {"social_network_type": "Facebook"}, "user_id": 9338, "event": "scroll_stream"}
+{"event_id": "1f5e74b4-d3f3-4e06-aed5-798a7e84a22f", "timestamp": "2016-03-16 08:20:06", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 5738, "event": "scroll_stream"}
+{"event_id": "1f5e74b4-d3f3-4e06-aed5-798a7e84a22f", "timestamp": "2016-03-16 08:20:06", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 5738, "event": "scroll_stream"}
+{"event_id": "1f5e74b4-d3f3-4e06-aed5-798a7e84a22f", "timestamp": "2016-03-16 08:20:06", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 5738, "event": "scroll_stream"}
+{"event_id": "92cb8fbf-b75e-4f5d-8d2d-757e8444c599", "timestamp": "2016-03-16 08:25:29", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 1288, "event": "add_stream"}
+{"event_id": "92cb8fbf-b75e-4f5d-8d2d-757e8444c599", "timestamp": "2016-03-16 08:25:29", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 1288, "event": "add_stream"}
+{"event_id": "92cb8fbf-b75e-4f5d-8d2d-757e8444c599", "timestamp": "2016-03-16 08:25:29", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 1288, "event": "add_stream"}
+{"event_id": "346c0a34-3035-4e8f-8ef1-2e66b66783be", "timestamp": "2016-03-16 08:26:17", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 4980, "event": "drop_stream"}
+{"event_id": "346c0a34-3035-4e8f-8ef1-2e66b66783be", "timestamp": "2016-03-16 08:26:17", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 4980, "event": "drop_stream"}
+{"event_id": "346c0a34-3035-4e8f-8ef1-2e66b66783be", "timestamp": "2016-03-16 08:26:17", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 4980, "event": "drop_stream"}
+{"event_id": "680e7f2f-353f-44b6-bf5e-d2ffbdfb18b5", "timestamp": "2016-03-16 08:32:26", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8298, "event": "message_sent"}
+{"event_id": "680e7f2f-353f-44b6-bf5e-d2ffbdfb18b5", "timestamp": "2016-03-16 08:32:26", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8298, "event": "message_sent"}
+{"event_id": "680e7f2f-353f-44b6-bf5e-d2ffbdfb18b5", "timestamp": "2016-03-16 08:32:26", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8298, "event": "message_sent"}
+{"event_id": "7c07b807-e045-4b8b-998c-fdafaa702e6d", "timestamp": "2016-03-16 08:34:28", "extra_data": {"social_network_type": "Twitter"}, "user_id": 790, "event": "add_stream"}
+{"event_id": "7c07b807-e045-4b8b-998c-fdafaa702e6d", "timestamp": "2016-03-16 08:34:28", "extra_data": {"social_network_type": "Twitter"}, "user_id": 790, "event": "add_stream"}
+{"event_id": "7c07b807-e045-4b8b-998c-fdafaa702e6d", "timestamp": "2016-03-16 08:34:28", "extra_data": {"social_network_type": "Twitter"}, "user_id": 790, "event": "add_stream"}
+{"event_id": "312cad45-0c34-488f-83c3-69f50506e7f0", "timestamp": "2016-03-16 08:36:29", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6405, "event": "add_stream"}
+{"event_id": "312cad45-0c34-488f-83c3-69f50506e7f0", "timestamp": "2016-03-16 08:36:29", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6405, "event": "add_stream"}
+{"event_id": "312cad45-0c34-488f-83c3-69f50506e7f0", "timestamp": "2016-03-16 08:36:29", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6405, "event": "add_stream"}
+{"event_id": "384da21b-a054-46fa-8082-124a35f9404a", "timestamp": "2016-03-16 08:36:31", "extra_data": {"social_network_type": "Instagram"}, "user_id": 7547, "event": "scroll_stream"}
+{"event_id": "384da21b-a054-46fa-8082-124a35f9404a", "timestamp": "2016-03-16 08:36:31", "extra_data": {"social_network_type": "Instagram"}, "user_id": 7547, "event": "scroll_stream"}
+{"event_id": "384da21b-a054-46fa-8082-124a35f9404a", "timestamp": "2016-03-16 08:36:31", "extra_data": {"social_network_type": "Instagram"}, "user_id": 7547, "event": "scroll_stream"}
+{"event_id": "61ea57ed-f86a-41b1-801b-451b6a47e620", "timestamp": "2016-03-16 08:37:24", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7568, "event": "scroll_stream"}
+{"event_id": "61ea57ed-f86a-41b1-801b-451b6a47e620", "timestamp": "2016-03-16 08:37:24", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7568, "event": "scroll_stream"}
+{"event_id": "61ea57ed-f86a-41b1-801b-451b6a47e620", "timestamp": "2016-03-16 08:37:24", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7568, "event": "scroll_stream"}
+{"event_id": "1b166925-9cbe-4e1a-b988-dc57dea04a97", "timestamp": "2016-03-16 08:38:46", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2859, "event": "scroll_stream"}
+{"event_id": "1b166925-9cbe-4e1a-b988-dc57dea04a97", "timestamp": "2016-03-16 08:38:46", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2859, "event": "scroll_stream"}
+{"event_id": "1b166925-9cbe-4e1a-b988-dc57dea04a97", "timestamp": "2016-03-16 08:38:46", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2859, "event": "scroll_stream"}
+{"event_id": "e572a328-7d18-4e79-984a-8a6c23528065", "timestamp": "2016-03-16 08:42:51", "extra_data": {"social_network_type": "Instagram"}, "user_id": 4752, "event": "scroll_stream"}
+{"event_id": "e572a328-7d18-4e79-984a-8a6c23528065", "timestamp": "2016-03-16 08:42:51", "extra_data": {"social_network_type": "Instagram"}, "user_id": 4752, "event": "scroll_stream"}
+{"event_id": "e572a328-7d18-4e79-984a-8a6c23528065", "timestamp": "2016-03-16 08:42:51", "extra_data": {"social_network_type": "Instagram"}, "user_id": 4752, "event": "scroll_stream"}
+{"event_id": "83b91f58-35e1-4474-9c5f-64d8c78a210c", "timestamp": "2016-03-16 08:46:38", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7439, "event": "message_sent"}
+{"event_id": "83b91f58-35e1-4474-9c5f-64d8c78a210c", "timestamp": "2016-03-16 08:46:38", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7439, "event": "message_sent"}
+{"event_id": "83b91f58-35e1-4474-9c5f-64d8c78a210c", "timestamp": "2016-03-16 08:46:38", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7439, "event": "message_sent"}
+{"event_id": "471ac5b9-4f78-4990-9280-5bf8259498e9", "timestamp": "2016-03-16 08:49:55", "extra_data": {"payment_amount": 338962.66, "payment_processor": "Chase"}, "organization_id": 310, "event": "paid_for_entperise_package"}
+{"event_id": "471ac5b9-4f78-4990-9280-5bf8259498e9", "timestamp": "2016-03-16 08:49:55", "extra_data": {"payment_amount": 338962.66, "payment_processor": "Chase"}, "organization_id": 310, "event": "paid_for_entperise_package"}
+{"event_id": "471ac5b9-4f78-4990-9280-5bf8259498e9", "timestamp": "2016-03-16 08:49:55", "extra_data": {"payment_amount": 338962.66, "payment_processor": "Chase"}, "organization_id": 310, "event": "paid_for_entperise_package"}
+{"event_id": "91b18583-0c64-43ac-80a9-329b794c1964", "timestamp": "2016-03-16 08:54:15", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 5911, "event": "message_sent"}
+{"event_id": "91b18583-0c64-43ac-80a9-329b794c1964", "timestamp": "2016-03-16 08:54:15", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 5911, "event": "message_sent"}
+{"event_id": "91b18583-0c64-43ac-80a9-329b794c1964", "timestamp": "2016-03-16 08:54:15", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 5911, "event": "message_sent"}
+{"event_id": "0247cbbd-c796-469f-baab-8d137c8c63f0", "timestamp": "2016-03-16 08:54:19", "user_id": 2053, "event": "ios_logout"}
+{"event_id": "0247cbbd-c796-469f-baab-8d137c8c63f0", "timestamp": "2016-03-16 08:54:19", "user_id": 2053, "event": "ios_logout"}
+{"event_id": "0247cbbd-c796-469f-baab-8d137c8c63f0", "timestamp": "2016-03-16 08:54:19", "user_id": 2053, "event": "ios_logout"}
+{"event_id": "91d99e00-fdd4-4c0f-8e5f-7a2cab55be5b", "timestamp": "2016-03-16 08:55:55", "extra_data": {"social_network_type": "Instagram"}, "user_id": 4708, "event": "scroll_stream"}
+{"event_id": "91d99e00-fdd4-4c0f-8e5f-7a2cab55be5b", "timestamp": "2016-03-16 08:55:55", "extra_data": {"social_network_type": "Instagram"}, "user_id": 4708, "event": "scroll_stream"}
+{"event_id": "91d99e00-fdd4-4c0f-8e5f-7a2cab55be5b", "timestamp": "2016-03-16 08:55:55", "extra_data": {"social_network_type": "Instagram"}, "user_id": 4708, "event": "scroll_stream"}
+{"event_id": "12ce6a95-c9c0-4b8c-93d2-22c608fc6ea5", "timestamp": "2016-03-16 08:57:42", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1585, "event": "add_stream"}
+{"event_id": "12ce6a95-c9c0-4b8c-93d2-22c608fc6ea5", "timestamp": "2016-03-16 08:57:42", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1585, "event": "add_stream"}
+{"event_id": "12ce6a95-c9c0-4b8c-93d2-22c608fc6ea5", "timestamp": "2016-03-16 08:57:42", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1585, "event": "add_stream"}
+{"event_id": "af0a7a4c-93f0-4313-a082-6575dee67ca9", "timestamp": "2016-03-16 08:59:28", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3913, "event": "add_stream"}
+{"event_id": "af0a7a4c-93f0-4313-a082-6575dee67ca9", "timestamp": "2016-03-16 08:59:28", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3913, "event": "add_stream"}
+{"event_id": "af0a7a4c-93f0-4313-a082-6575dee67ca9", "timestamp": "2016-03-16 08:59:28", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3913, "event": "add_stream"}
+{"event_id": "99846367-bb91-4b1b-ab1c-8ad7dbc1b090", "timestamp": "2016-03-16 09:00:24", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 5990, "event": "message_sent"}
+{"event_id": "99846367-bb91-4b1b-ab1c-8ad7dbc1b090", "timestamp": "2016-03-16 09:00:24", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 5990, "event": "message_sent"}
+{"event_id": "99846367-bb91-4b1b-ab1c-8ad7dbc1b090", "timestamp": "2016-03-16 09:00:24", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 5990, "event": "message_sent"}
+{"event_id": "b6164dd2-f6e4-4af7-ac0a-3330de6025aa", "timestamp": "2016-03-16 09:02:57", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2447, "event": "drop_stream"}
+{"event_id": "b6164dd2-f6e4-4af7-ac0a-3330de6025aa", "timestamp": "2016-03-16 09:02:57", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2447, "event": "drop_stream"}
+{"event_id": "b6164dd2-f6e4-4af7-ac0a-3330de6025aa", "timestamp": "2016-03-16 09:02:57", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2447, "event": "drop_stream"}
+{"event_id": "f4d801e1-f4f1-44bd-be2e-a080bf714c4d", "timestamp": "2016-03-16 09:17:11", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5730, "event": "message_sent"}
+{"event_id": "f4d801e1-f4f1-44bd-be2e-a080bf714c4d", "timestamp": "2016-03-16 09:17:11", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5730, "event": "message_sent"}
+{"event_id": "f4d801e1-f4f1-44bd-be2e-a080bf714c4d", "timestamp": "2016-03-16 09:17:11", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5730, "event": "message_sent"}
+{"event_id": "368f4239-6786-46e9-92cc-17f65f123bf6", "timestamp": "2016-03-16 09:17:17", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2910, "event": "add_stream"}
+{"event_id": "368f4239-6786-46e9-92cc-17f65f123bf6", "timestamp": "2016-03-16 09:17:17", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2910, "event": "add_stream"}
+{"event_id": "368f4239-6786-46e9-92cc-17f65f123bf6", "timestamp": "2016-03-16 09:17:17", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2910, "event": "add_stream"}
+{"event_id": "1f04e41c-2f24-4ac9-9ad8-0f1393389f13", "timestamp": "2016-03-16 09:18:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2044, "event": "add_stream"}
+{"event_id": "1f04e41c-2f24-4ac9-9ad8-0f1393389f13", "timestamp": "2016-03-16 09:18:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2044, "event": "add_stream"}
+{"event_id": "1f04e41c-2f24-4ac9-9ad8-0f1393389f13", "timestamp": "2016-03-16 09:18:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2044, "event": "add_stream"}
+{"event_id": "c82d269b-457a-4db6-a0df-eac0cdf39663", "timestamp": "2016-03-16 09:19:16", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8260, "event": "message_sent"}
+{"event_id": "c82d269b-457a-4db6-a0df-eac0cdf39663", "timestamp": "2016-03-16 09:19:16", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8260, "event": "message_sent"}
+{"event_id": "c82d269b-457a-4db6-a0df-eac0cdf39663", "timestamp": "2016-03-16 09:19:16", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8260, "event": "message_sent"}
+{"event_id": "623edf64-c56d-42f5-8a80-4fe44917a3db", "timestamp": "2016-03-16 09:24:28", "extra_data": {"social_network_type": "Facebook"}, "user_id": 505, "event": "drop_stream"}
+{"event_id": "623edf64-c56d-42f5-8a80-4fe44917a3db", "timestamp": "2016-03-16 09:24:28", "extra_data": {"social_network_type": "Facebook"}, "user_id": 505, "event": "drop_stream"}
+{"event_id": "623edf64-c56d-42f5-8a80-4fe44917a3db", "timestamp": "2016-03-16 09:24:28", "extra_data": {"social_network_type": "Facebook"}, "user_id": 505, "event": "drop_stream"}
+{"event_id": "c2279dc0-a5ce-467e-8b48-1cfd5d4ec4fa", "timestamp": "2016-03-16 09:24:39", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9419, "event": "message_sent"}
+{"event_id": "c2279dc0-a5ce-467e-8b48-1cfd5d4ec4fa", "timestamp": "2016-03-16 09:24:39", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9419, "event": "message_sent"}
+{"event_id": "c2279dc0-a5ce-467e-8b48-1cfd5d4ec4fa", "timestamp": "2016-03-16 09:24:39", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9419, "event": "message_sent"}
+{"event_id": "90bee61e-b892-46fa-8c57-f2ea400d2808", "timestamp": "2016-03-16 09:31:01", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3528, "event": "message_sent"}
+{"event_id": "90bee61e-b892-46fa-8c57-f2ea400d2808", "timestamp": "2016-03-16 09:31:01", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3528, "event": "message_sent"}
+{"event_id": "90bee61e-b892-46fa-8c57-f2ea400d2808", "timestamp": "2016-03-16 09:31:01", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3528, "event": "message_sent"}
+{"event_id": "402078ca-d8bd-46a2-b74a-f34952cf86a1", "timestamp": "2016-03-16 09:31:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6052, "event": "add_stream"}
+{"event_id": "402078ca-d8bd-46a2-b74a-f34952cf86a1", "timestamp": "2016-03-16 09:31:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6052, "event": "add_stream"}
+{"event_id": "402078ca-d8bd-46a2-b74a-f34952cf86a1", "timestamp": "2016-03-16 09:31:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6052, "event": "add_stream"}
+{"event_id": "4391c1eb-2064-4c77-bca6-bdb3d0793c36", "timestamp": "2016-03-16 09:35:27", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1387, "event": "message_sent"}
+{"event_id": "4391c1eb-2064-4c77-bca6-bdb3d0793c36", "timestamp": "2016-03-16 09:35:27", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1387, "event": "message_sent"}
+{"event_id": "4391c1eb-2064-4c77-bca6-bdb3d0793c36", "timestamp": "2016-03-16 09:35:27", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1387, "event": "message_sent"}
+{"event_id": "796af5e1-d01f-4380-b8f4-7d3154478d60", "timestamp": "2016-03-16 09:35:56", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 9250, "event": "message_sent"}
+{"event_id": "796af5e1-d01f-4380-b8f4-7d3154478d60", "timestamp": "2016-03-16 09:35:56", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 9250, "event": "message_sent"}
+{"event_id": "796af5e1-d01f-4380-b8f4-7d3154478d60", "timestamp": "2016-03-16 09:35:56", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 9250, "event": "message_sent"}
+{"event_id": "2ba3a312-1ebf-48cd-84d2-a1b95abe72ee", "timestamp": "2016-03-16 09:38:41", "user_id": 3906, "event": "web_login"}
+{"event_id": "2ba3a312-1ebf-48cd-84d2-a1b95abe72ee", "timestamp": "2016-03-16 09:38:41", "user_id": 3906, "event": "web_login"}
+{"event_id": "2ba3a312-1ebf-48cd-84d2-a1b95abe72ee", "timestamp": "2016-03-16 09:38:41", "user_id": 3906, "event": "web_login"}
+{"event_id": "e527c0ef-4cc5-4d8b-83e7-d7b6f56120a7", "timestamp": "2016-03-16 09:43:42", "user_id": 6946, "event": "web_logout"}
+{"event_id": "e527c0ef-4cc5-4d8b-83e7-d7b6f56120a7", "timestamp": "2016-03-16 09:43:42", "user_id": 6946, "event": "web_logout"}
+{"event_id": "e527c0ef-4cc5-4d8b-83e7-d7b6f56120a7", "timestamp": "2016-03-16 09:43:42", "user_id": 6946, "event": "web_logout"}
+{"event_id": "2ddeece7-b45f-4bf0-bfc8-7b2ee3c6a115", "timestamp": "2016-03-16 09:49:08", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 9468, "event": "scroll_stream"}
+{"event_id": "2ddeece7-b45f-4bf0-bfc8-7b2ee3c6a115", "timestamp": "2016-03-16 09:49:08", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 9468, "event": "scroll_stream"}
+{"event_id": "2ddeece7-b45f-4bf0-bfc8-7b2ee3c6a115", "timestamp": "2016-03-16 09:49:08", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 9468, "event": "scroll_stream"}
+{"event_id": "316ee9ea-e9f3-4109-9bf7-2fb14bbd974d", "timestamp": "2016-03-16 09:59:10", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5115, "event": "drop_stream"}
+{"event_id": "316ee9ea-e9f3-4109-9bf7-2fb14bbd974d", "timestamp": "2016-03-16 09:59:10", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5115, "event": "drop_stream"}
+{"event_id": "316ee9ea-e9f3-4109-9bf7-2fb14bbd974d", "timestamp": "2016-03-16 09:59:10", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5115, "event": "drop_stream"}
+{"event_id": "8e9496a5-47cf-455e-883b-fb47f3c7457e", "timestamp": "2016-03-16 10:00:10", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2342, "event": "message_sent"}
+{"event_id": "8e9496a5-47cf-455e-883b-fb47f3c7457e", "timestamp": "2016-03-16 10:00:10", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2342, "event": "message_sent"}
+{"event_id": "8e9496a5-47cf-455e-883b-fb47f3c7457e", "timestamp": "2016-03-16 10:00:10", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2342, "event": "message_sent"}
+{"event_id": "569aa494-fd13-44aa-a5df-a706da00167f", "timestamp": "2016-03-16 10:04:46", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8279, "event": "message_sent"}
+{"event_id": "569aa494-fd13-44aa-a5df-a706da00167f", "timestamp": "2016-03-16 10:04:46", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8279, "event": "message_sent"}
+{"event_id": "569aa494-fd13-44aa-a5df-a706da00167f", "timestamp": "2016-03-16 10:04:46", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8279, "event": "message_sent"}
+{"event_id": "3dc6cde1-16f2-4b95-abf7-639ba6b8c86b", "timestamp": "2016-03-16 10:07:49", "user_id": 4714, "event": "web_logout"}
+{"event_id": "3dc6cde1-16f2-4b95-abf7-639ba6b8c86b", "timestamp": "2016-03-16 10:07:49", "user_id": 4714, "event": "web_logout"}
+{"event_id": "3dc6cde1-16f2-4b95-abf7-639ba6b8c86b", "timestamp": "2016-03-16 10:07:49", "user_id": 4714, "event": "web_logout"}
+{"event_id": "5ffa99e9-5de3-4932-97a8-ba96f740de30", "timestamp": "2016-03-16 10:11:35", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2997, "event": "message_sent"}
+{"event_id": "5ffa99e9-5de3-4932-97a8-ba96f740de30", "timestamp": "2016-03-16 10:11:35", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2997, "event": "message_sent"}
+{"event_id": "5ffa99e9-5de3-4932-97a8-ba96f740de30", "timestamp": "2016-03-16 10:11:35", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2997, "event": "message_sent"}
+{"event_id": "c44eae69-28d5-437d-b21d-1fe110c95423", "timestamp": "2016-03-16 10:15:44", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2284, "event": "scroll_stream"}
+{"event_id": "c44eae69-28d5-437d-b21d-1fe110c95423", "timestamp": "2016-03-16 10:15:44", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2284, "event": "scroll_stream"}
+{"event_id": "c44eae69-28d5-437d-b21d-1fe110c95423", "timestamp": "2016-03-16 10:15:44", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2284, "event": "scroll_stream"}
+{"event_id": "824bb200-cdeb-49a4-b76a-c2d778641c65", "timestamp": "2016-03-16 10:15:55", "extra_data": {"social_network_type": "Twitter"}, "user_id": 141, "event": "message_sent"}
+{"event_id": "824bb200-cdeb-49a4-b76a-c2d778641c65", "timestamp": "2016-03-16 10:15:55", "extra_data": {"social_network_type": "Twitter"}, "user_id": 141, "event": "message_sent"}
+{"event_id": "824bb200-cdeb-49a4-b76a-c2d778641c65", "timestamp": "2016-03-16 10:15:55", "extra_data": {"social_network_type": "Twitter"}, "user_id": 141, "event": "message_sent"}
+{"event_id": "d672dbcb-da11-484a-9029-0eb7ae83325c", "timestamp": "2016-03-16 10:19:21", "user_id": 247, "event": "web_login"}
+{"event_id": "d672dbcb-da11-484a-9029-0eb7ae83325c", "timestamp": "2016-03-16 10:19:21", "user_id": 247, "event": "web_login"}
+{"event_id": "d672dbcb-da11-484a-9029-0eb7ae83325c", "timestamp": "2016-03-16 10:19:21", "user_id": 247, "event": "web_login"}
+{"event_id": "c663b9cf-333a-4a7b-a6f1-337356d00ae4", "timestamp": "2016-03-16 10:19:49", "user_id": 9104, "event": "ios_login"}
+{"event_id": "c663b9cf-333a-4a7b-a6f1-337356d00ae4", "timestamp": "2016-03-16 10:19:49", "user_id": 9104, "event": "ios_login"}
+{"event_id": "c663b9cf-333a-4a7b-a6f1-337356d00ae4", "timestamp": "2016-03-16 10:19:49", "user_id": 9104, "event": "ios_login"}
+{"event_id": "035bd1bf-11e4-4209-a145-a35445754a01", "timestamp": "2016-03-16 10:20:51", "extra_data": {"social_network_type": "Instagram"}, "user_id": 3160, "event": "scroll_stream"}
+{"event_id": "035bd1bf-11e4-4209-a145-a35445754a01", "timestamp": "2016-03-16 10:20:51", "extra_data": {"social_network_type": "Instagram"}, "user_id": 3160, "event": "scroll_stream"}
+{"event_id": "035bd1bf-11e4-4209-a145-a35445754a01", "timestamp": "2016-03-16 10:20:51", "extra_data": {"social_network_type": "Instagram"}, "user_id": 3160, "event": "scroll_stream"}
+{"event_id": "16ca9f27-3570-48a7-bbbb-5b949fb4f46d", "timestamp": "2016-03-16 10:28:28", "extra_data": {"social_network_type": "Facebook"}, "user_id": 5973, "event": "scroll_stream"}
+{"event_id": "16ca9f27-3570-48a7-bbbb-5b949fb4f46d", "timestamp": "2016-03-16 10:28:28", "extra_data": {"social_network_type": "Facebook"}, "user_id": 5973, "event": "scroll_stream"}
+{"event_id": "16ca9f27-3570-48a7-bbbb-5b949fb4f46d", "timestamp": "2016-03-16 10:28:28", "extra_data": {"social_network_type": "Facebook"}, "user_id": 5973, "event": "scroll_stream"}
+{"event_id": "f6df5001-fccd-47c2-912d-f9e71045dba7", "timestamp": "2016-03-16 10:29:16", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6294, "event": "scroll_stream"}
+{"event_id": "f6df5001-fccd-47c2-912d-f9e71045dba7", "timestamp": "2016-03-16 10:29:16", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6294, "event": "scroll_stream"}
+{"event_id": "f6df5001-fccd-47c2-912d-f9e71045dba7", "timestamp": "2016-03-16 10:29:16", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6294, "event": "scroll_stream"}
+{"event_id": "9b8960e4-bbbb-49aa-a8ae-4aa6b74e8192", "timestamp": "2016-03-16 10:32:03", "extra_data": {"social_network_type": "Facebook"}, "user_id": 7492, "event": "scroll_stream"}
+{"event_id": "9b8960e4-bbbb-49aa-a8ae-4aa6b74e8192", "timestamp": "2016-03-16 10:32:03", "extra_data": {"social_network_type": "Facebook"}, "user_id": 7492, "event": "scroll_stream"}
+{"event_id": "9b8960e4-bbbb-49aa-a8ae-4aa6b74e8192", "timestamp": "2016-03-16 10:32:03", "extra_data": {"social_network_type": "Facebook"}, "user_id": 7492, "event": "scroll_stream"}
+{"event_id": "91cb9841-d08f-4c5b-a702-49d00af5c84d", "timestamp": "2016-03-16 10:35:14", "extra_data": {"social_network_type": "Twitter"}, "user_id": 4031, "event": "drop_stream"}
+{"event_id": "91cb9841-d08f-4c5b-a702-49d00af5c84d", "timestamp": "2016-03-16 10:35:14", "extra_data": {"social_network_type": "Twitter"}, "user_id": 4031, "event": "drop_stream"}
+{"event_id": "91cb9841-d08f-4c5b-a702-49d00af5c84d", "timestamp": "2016-03-16 10:35:14", "extra_data": {"social_network_type": "Twitter"}, "user_id": 4031, "event": "drop_stream"}
+{"event_id": "64f65392-34b3-4cf0-a6ed-d492688828d4", "timestamp": "2016-03-16 10:42:09", "extra_data": {"social_network_type": "Facebook"}, "user_id": 9033, "event": "add_stream"}
+{"event_id": "64f65392-34b3-4cf0-a6ed-d492688828d4", "timestamp": "2016-03-16 10:42:09", "extra_data": {"social_network_type": "Facebook"}, "user_id": 9033, "event": "add_stream"}
+{"event_id": "64f65392-34b3-4cf0-a6ed-d492688828d4", "timestamp": "2016-03-16 10:42:09", "extra_data": {"social_network_type": "Facebook"}, "user_id": 9033, "event": "add_stream"}
+{"event_id": "d441b4b9-cde9-4b7b-8462-11a56735a20f", "timestamp": "2016-03-16 10:45:11", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 8564, "event": "scroll_stream"}
+{"event_id": "d441b4b9-cde9-4b7b-8462-11a56735a20f", "timestamp": "2016-03-16 10:45:11", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 8564, "event": "scroll_stream"}
+{"event_id": "d441b4b9-cde9-4b7b-8462-11a56735a20f", "timestamp": "2016-03-16 10:45:11", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 8564, "event": "scroll_stream"}
+{"event_id": "01113d99-5f9c-4236-a768-d5e461edf8dd", "timestamp": "2016-03-16 10:54:05", "extra_data": {"social_network_type": "Facebook"}, "user_id": 3915, "event": "add_stream"}
+{"event_id": "01113d99-5f9c-4236-a768-d5e461edf8dd", "timestamp": "2016-03-16 10:54:05", "extra_data": {"social_network_type": "Facebook"}, "user_id": 3915, "event": "add_stream"}
+{"event_id": "01113d99-5f9c-4236-a768-d5e461edf8dd", "timestamp": "2016-03-16 10:54:05", "extra_data": {"social_network_type": "Facebook"}, "user_id": 3915, "event": "add_stream"}
+{"event_id": "cebf583a-7798-4a64-a42d-ede927631e11", "timestamp": "2016-03-16 10:54:29", "user_id": 6211, "event": "android_logout"}
+{"event_id": "cebf583a-7798-4a64-a42d-ede927631e11", "timestamp": "2016-03-16 10:54:29", "user_id": 6211, "event": "android_logout"}
+{"event_id": "cebf583a-7798-4a64-a42d-ede927631e11", "timestamp": "2016-03-16 10:54:29", "user_id": 6211, "event": "android_logout"}
+{"event_id": "893972c0-aa29-4414-b6a7-386967058b6a", "timestamp": "2016-03-16 10:57:55", "user_id": 7059, "event": "web_login"}
+{"event_id": "893972c0-aa29-4414-b6a7-386967058b6a", "timestamp": "2016-03-16 10:57:55", "user_id": 7059, "event": "web_login"}
+{"event_id": "893972c0-aa29-4414-b6a7-386967058b6a", "timestamp": "2016-03-16 10:57:55", "user_id": 7059, "event": "web_login"}
+{"event_id": "6e044095-9483-46b7-b35e-e5ac9913e407", "timestamp": "2016-03-16 10:58:00", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3382, "event": "scroll_stream"}
+{"event_id": "6e044095-9483-46b7-b35e-e5ac9913e407", "timestamp": "2016-03-16 10:58:00", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3382, "event": "scroll_stream"}
+{"event_id": "6e044095-9483-46b7-b35e-e5ac9913e407", "timestamp": "2016-03-16 10:58:00", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3382, "event": "scroll_stream"}
+{"event_id": "90615532-86d3-4078-8afa-b67ca507d99b", "timestamp": "2016-03-16 11:01:15", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7682, "event": "message_sent"}
+{"event_id": "90615532-86d3-4078-8afa-b67ca507d99b", "timestamp": "2016-03-16 11:01:15", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7682, "event": "message_sent"}
+{"event_id": "90615532-86d3-4078-8afa-b67ca507d99b", "timestamp": "2016-03-16 11:01:15", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7682, "event": "message_sent"}
+{"event_id": "364072b8-9208-4022-a6e0-deeb0d34ae72", "timestamp": "2016-03-16 11:02:18", "extra_data": {"social_network_type": "Twitter"}, "user_id": 353, "event": "scroll_stream"}
+{"event_id": "364072b8-9208-4022-a6e0-deeb0d34ae72", "timestamp": "2016-03-16 11:02:18", "extra_data": {"social_network_type": "Twitter"}, "user_id": 353, "event": "scroll_stream"}
+{"event_id": "364072b8-9208-4022-a6e0-deeb0d34ae72", "timestamp": "2016-03-16 11:02:18", "extra_data": {"social_network_type": "Twitter"}, "user_id": 353, "event": "scroll_stream"}
+{"event_id": "f3ed445c-7cad-4e72-8276-d7a0bd0c8bb8", "timestamp": "2016-03-16 11:09:40", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5989, "event": "message_sent"}
+{"event_id": "f3ed445c-7cad-4e72-8276-d7a0bd0c8bb8", "timestamp": "2016-03-16 11:09:40", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5989, "event": "message_sent"}
+{"event_id": "f3ed445c-7cad-4e72-8276-d7a0bd0c8bb8", "timestamp": "2016-03-16 11:09:40", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5989, "event": "message_sent"}
+{"event_id": "3b016460-6bba-4058-ae87-ce983cceb72d", "timestamp": "2016-03-16 11:10:53", "user_id": 2963, "event": "web_logout"}
+{"event_id": "3b016460-6bba-4058-ae87-ce983cceb72d", "timestamp": "2016-03-16 11:10:53", "user_id": 2963, "event": "web_logout"}
+{"event_id": "3b016460-6bba-4058-ae87-ce983cceb72d", "timestamp": "2016-03-16 11:10:53", "user_id": 2963, "event": "web_logout"}
+{"event_id": "dd656679-b0ec-4731-ada6-d6dbe54d1e23", "timestamp": "2016-03-16 11:14:59", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5493, "event": "message_sent"}
+{"event_id": "dd656679-b0ec-4731-ada6-d6dbe54d1e23", "timestamp": "2016-03-16 11:14:59", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5493, "event": "message_sent"}
+{"event_id": "dd656679-b0ec-4731-ada6-d6dbe54d1e23", "timestamp": "2016-03-16 11:14:59", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5493, "event": "message_sent"}
+{"event_id": "ec864694-37bd-4d73-aaf2-cc0344f016b2", "timestamp": "2016-03-16 11:17:30", "extra_data": {"social_network_type": "Facebook"}, "user_id": 457, "event": "drop_stream"}
+{"event_id": "ec864694-37bd-4d73-aaf2-cc0344f016b2", "timestamp": "2016-03-16 11:17:30", "extra_data": {"social_network_type": "Facebook"}, "user_id": 457, "event": "drop_stream"}
+{"event_id": "ec864694-37bd-4d73-aaf2-cc0344f016b2", "timestamp": "2016-03-16 11:17:30", "extra_data": {"social_network_type": "Facebook"}, "user_id": 457, "event": "drop_stream"}
+{"event_id": "a78f236b-4f44-49e5-9fea-ac4a71e1eb0b", "timestamp": "2016-03-16 11:23:37", "user_id": 6687, "event": "ios_login"}
+{"event_id": "a78f236b-4f44-49e5-9fea-ac4a71e1eb0b", "timestamp": "2016-03-16 11:23:37", "user_id": 6687, "event": "ios_login"}
+{"event_id": "a78f236b-4f44-49e5-9fea-ac4a71e1eb0b", "timestamp": "2016-03-16 11:23:37", "user_id": 6687, "event": "ios_login"}
+{"event_id": "a3ed0a84-93f0-4b31-be39-3a3221e4c121", "timestamp": "2016-03-16 11:40:11", "user_id": 4492, "event": "web_logout"}
+{"event_id": "a3ed0a84-93f0-4b31-be39-3a3221e4c121", "timestamp": "2016-03-16 11:40:11", "user_id": 4492, "event": "web_logout"}
+{"event_id": "a3ed0a84-93f0-4b31-be39-3a3221e4c121", "timestamp": "2016-03-16 11:40:11", "user_id": 4492, "event": "web_logout"}
+{"event_id": "f74685f5-d9c7-44e5-bed9-b0d7ace1f185", "timestamp": "2016-03-16 11:42:39", "extra_data": {"social_network_type": "Facebook"}, "user_id": 3361, "event": "scroll_stream"}
+{"event_id": "f74685f5-d9c7-44e5-bed9-b0d7ace1f185", "timestamp": "2016-03-16 11:42:39", "extra_data": {"social_network_type": "Facebook"}, "user_id": 3361, "event": "scroll_stream"}
+{"event_id": "f74685f5-d9c7-44e5-bed9-b0d7ace1f185", "timestamp": "2016-03-16 11:42:39", "extra_data": {"social_network_type": "Facebook"}, "user_id": 3361, "event": "scroll_stream"}
+{"event_id": "976061ec-7069-438c-aa61-a2b66ffee822", "timestamp": "2016-03-16 11:43:16", "extra_data": {"social_network_type": "Facebook"}, "user_id": 9317, "event": "add_stream"}
+{"event_id": "976061ec-7069-438c-aa61-a2b66ffee822", "timestamp": "2016-03-16 11:43:16", "extra_data": {"social_network_type": "Facebook"}, "user_id": 9317, "event": "add_stream"}
+{"event_id": "976061ec-7069-438c-aa61-a2b66ffee822", "timestamp": "2016-03-16 11:43:16", "extra_data": {"social_network_type": "Facebook"}, "user_id": 9317, "event": "add_stream"}
+{"event_id": "18955887-211b-483c-85ee-d3350ba6dc5d", "timestamp": "2016-03-16 11:46:20", "extra_data": {"social_network_type": "Instagram"}, "user_id": 1774, "event": "message_sent"}
+{"event_id": "18955887-211b-483c-85ee-d3350ba6dc5d", "timestamp": "2016-03-16 11:46:20", "extra_data": {"social_network_type": "Instagram"}, "user_id": 1774, "event": "message_sent"}
+{"event_id": "18955887-211b-483c-85ee-d3350ba6dc5d", "timestamp": "2016-03-16 11:46:20", "extra_data": {"social_network_type": "Instagram"}, "user_id": 1774, "event": "message_sent"}
+{"event_id": "540fc5fa-ea14-4ac3-8158-36eaf5f6c984", "timestamp": "2016-03-16 11:46:36", "extra_data": {"social_network_type": "Twitter"}, "user_id": 1956, "event": "drop_stream"}
+{"event_id": "540fc5fa-ea14-4ac3-8158-36eaf5f6c984", "timestamp": "2016-03-16 11:46:36", "extra_data": {"social_network_type": "Twitter"}, "user_id": 1956, "event": "drop_stream"}
+{"event_id": "540fc5fa-ea14-4ac3-8158-36eaf5f6c984", "timestamp": "2016-03-16 11:46:36", "extra_data": {"social_network_type": "Twitter"}, "user_id": 1956, "event": "drop_stream"}
+{"event_id": "c4d26e68-6110-41bc-bb5d-3fb3b55cf783", "timestamp": "2016-03-16 11:48:42", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 9472, "event": "add_stream"}
+{"event_id": "c4d26e68-6110-41bc-bb5d-3fb3b55cf783", "timestamp": "2016-03-16 11:48:42", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 9472, "event": "add_stream"}
+{"event_id": "c4d26e68-6110-41bc-bb5d-3fb3b55cf783", "timestamp": "2016-03-16 11:48:42", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 9472, "event": "add_stream"}
+{"event_id": "526632ad-732d-42af-8a33-02bb9d7f0be5", "timestamp": "2016-03-16 11:51:06", "extra_data": {"social_network_type": "Facebook"}, "user_id": 8509, "event": "message_sent"}
+{"event_id": "526632ad-732d-42af-8a33-02bb9d7f0be5", "timestamp": "2016-03-16 11:51:06", "extra_data": {"social_network_type": "Facebook"}, "user_id": 8509, "event": "message_sent"}
+{"event_id": "526632ad-732d-42af-8a33-02bb9d7f0be5", "timestamp": "2016-03-16 11:51:06", "extra_data": {"social_network_type": "Facebook"}, "user_id": 8509, "event": "message_sent"}
+{"event_id": "4ccc95f2-da8a-4def-9fb6-ff54ab37034a", "timestamp": "2016-03-16 11:59:34", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 4554, "event": "message_sent"}
+{"event_id": "4ccc95f2-da8a-4def-9fb6-ff54ab37034a", "timestamp": "2016-03-16 11:59:34", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 4554, "event": "message_sent"}
+{"event_id": "4ccc95f2-da8a-4def-9fb6-ff54ab37034a", "timestamp": "2016-03-16 11:59:34", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 4554, "event": "message_sent"}
+{"event_id": "469e3cf7-2fbf-4dc9-a3a7-70e0247d00df", "timestamp": "2016-03-16 11:59:51", "extra_data": {"social_network_type": "Facebook"}, "user_id": 960, "event": "message_sent"}
+{"event_id": "469e3cf7-2fbf-4dc9-a3a7-70e0247d00df", "timestamp": "2016-03-16 11:59:51", "extra_data": {"social_network_type": "Facebook"}, "user_id": 960, "event": "message_sent"}
+{"event_id": "469e3cf7-2fbf-4dc9-a3a7-70e0247d00df", "timestamp": "2016-03-16 11:59:51", "extra_data": {"social_network_type": "Facebook"}, "user_id": 960, "event": "message_sent"}
+{"event_id": "656d5a70-3927-4420-b7fa-afa0e8b218c6", "timestamp": "2016-03-16 12:00:49", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6245, "event": "message_sent"}
+{"event_id": "656d5a70-3927-4420-b7fa-afa0e8b218c6", "timestamp": "2016-03-16 12:00:49", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6245, "event": "message_sent"}
+{"event_id": "656d5a70-3927-4420-b7fa-afa0e8b218c6", "timestamp": "2016-03-16 12:00:49", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6245, "event": "message_sent"}
+{"event_id": "336acfba-a728-4d37-a917-28c9d2e0de62", "timestamp": "2016-03-16 12:01:48", "extra_data": {"social_network_type": "Twitter"}, "user_id": 568, "event": "scroll_stream"}
+{"event_id": "336acfba-a728-4d37-a917-28c9d2e0de62", "timestamp": "2016-03-16 12:01:48", "extra_data": {"social_network_type": "Twitter"}, "user_id": 568, "event": "scroll_stream"}
+{"event_id": "336acfba-a728-4d37-a917-28c9d2e0de62", "timestamp": "2016-03-16 12:01:48", "extra_data": {"social_network_type": "Twitter"}, "user_id": 568, "event": "scroll_stream"}
+{"event_id": "b3d16ec9-db6d-41d5-b3c0-2faff7c5cd12", "timestamp": "2016-03-16 12:03:45", "extra_data": {"social_network_type": "Twitter"}, "user_id": 359, "event": "add_stream"}
+{"event_id": "b3d16ec9-db6d-41d5-b3c0-2faff7c5cd12", "timestamp": "2016-03-16 12:03:45", "extra_data": {"social_network_type": "Twitter"}, "user_id": 359, "event": "add_stream"}
+{"event_id": "b3d16ec9-db6d-41d5-b3c0-2faff7c5cd12", "timestamp": "2016-03-16 12:03:45", "extra_data": {"social_network_type": "Twitter"}, "user_id": 359, "event": "add_stream"}
+{"event_id": "35524313-21bb-45ab-ae7d-709863c7a4f3", "timestamp": "2016-03-16 12:06:02", "event": "Helen\"; SELECT * FROM students"}
+{"event_id": "35524313-21bb-45ab-ae7d-709863c7a4f3", "timestamp": "2016-03-16 12:06:02", "event": "Helen\"; SELECT * FROM students"}
+{"event_id": "35524313-21bb-45ab-ae7d-709863c7a4f3", "timestamp": "2016-03-16 12:06:02", "event": "Helen\"; SELECT * FROM students"}
+{"event_id": "0105835b-3e8c-4381-a68a-05213362fda0", "timestamp": "2016-03-16 12:07:17", "extra_data": {"social_network_type": "Facebook"}, "user_id": 5231, "event": "add_stream"}
+{"event_id": "0105835b-3e8c-4381-a68a-05213362fda0", "timestamp": "2016-03-16 12:07:17", "extra_data": {"social_network_type": "Facebook"}, "user_id": 5231, "event": "add_stream"}
+{"event_id": "0105835b-3e8c-4381-a68a-05213362fda0", "timestamp": "2016-03-16 12:07:17", "extra_data": {"social_network_type": "Facebook"}, "user_id": 5231, "event": "add_stream"}
+{"event_id": "f75bb2cf-8f6d-4d35-80f5-ddf0026c0404", "timestamp": "2016-03-16 12:09:31", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9904, "event": "message_sent"}
+{"event_id": "f75bb2cf-8f6d-4d35-80f5-ddf0026c0404", "timestamp": "2016-03-16 12:09:31", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9904, "event": "message_sent"}
+{"event_id": "f75bb2cf-8f6d-4d35-80f5-ddf0026c0404", "timestamp": "2016-03-16 12:09:31", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9904, "event": "message_sent"}
+{"event_id": "95eaf448-796b-4d52-8eab-6bed3c54a780", "timestamp": "2016-03-16 12:09:35", "organization_id": 231, "event": "email_support"}
+{"event_id": "95eaf448-796b-4d52-8eab-6bed3c54a780", "timestamp": "2016-03-16 12:09:35", "organization_id": 231, "event": "email_support"}
+{"event_id": "95eaf448-796b-4d52-8eab-6bed3c54a780", "timestamp": "2016-03-16 12:09:35", "organization_id": 231, "event": "email_support"}
+{"event_id": "c30db8d6-e9b4-41e6-83b1-4888bce00c71", "timestamp": "2016-03-16 12:15:55", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7582, "event": "drop_stream"}
+{"event_id": "c30db8d6-e9b4-41e6-83b1-4888bce00c71", "timestamp": "2016-03-16 12:15:55", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7582, "event": "drop_stream"}
+{"event_id": "c30db8d6-e9b4-41e6-83b1-4888bce00c71", "timestamp": "2016-03-16 12:15:55", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7582, "event": "drop_stream"}
+{"event_id": "d6cdb79b-dbc5-4c2d-b5db-29d7478145ef", "timestamp": "2016-03-16 12:22:07", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6176, "event": "add_stream"}
+{"event_id": "d6cdb79b-dbc5-4c2d-b5db-29d7478145ef", "timestamp": "2016-03-16 12:22:07", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6176, "event": "add_stream"}
+{"event_id": "d6cdb79b-dbc5-4c2d-b5db-29d7478145ef", "timestamp": "2016-03-16 12:22:07", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6176, "event": "add_stream"}
+{"event_id": "1f8986e0-6bc5-44e0-a723-9e8924185b81", "timestamp": "2016-03-16 12:28:40", "extra_data": {"social_network_type": "Facebook"}, "user_id": 778, "event": "drop_stream"}
+{"event_id": "1f8986e0-6bc5-44e0-a723-9e8924185b81", "timestamp": "2016-03-16 12:28:40", "extra_data": {"social_network_type": "Facebook"}, "user_id": 778, "event": "drop_stream"}
+{"event_id": "1f8986e0-6bc5-44e0-a723-9e8924185b81", "timestamp": "2016-03-16 12:28:40", "extra_data": {"social_network_type": "Facebook"}, "user_id": 778, "event": "drop_stream"}
+{"event_id": "ef2e12bc-4799-450e-84ec-2ebbbc0e7a38", "timestamp": "2016-03-16 12:30:24", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3802, "event": "scroll_stream"}
+{"event_id": "ef2e12bc-4799-450e-84ec-2ebbbc0e7a38", "timestamp": "2016-03-16 12:30:24", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3802, "event": "scroll_stream"}
+{"event_id": "ef2e12bc-4799-450e-84ec-2ebbbc0e7a38", "timestamp": "2016-03-16 12:30:24", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3802, "event": "scroll_stream"}
+{"event_id": "c3009b7d-36e2-463b-9f42-0213c6ea8b2f", "timestamp": "2016-03-16 12:42:52", "extra_data": {"social_network_type": "Twitter"}, "user_id": 4465, "event": "message_sent"}
+{"event_id": "c3009b7d-36e2-463b-9f42-0213c6ea8b2f", "timestamp": "2016-03-16 12:42:52", "extra_data": {"social_network_type": "Twitter"}, "user_id": 4465, "event": "message_sent"}
+{"event_id": "c3009b7d-36e2-463b-9f42-0213c6ea8b2f", "timestamp": "2016-03-16 12:42:52", "extra_data": {"social_network_type": "Twitter"}, "user_id": 4465, "event": "message_sent"}
+{"event_id": "6ece3cc6-7739-4d67-b871-b30a36626d7d", "timestamp": "2016-03-16 12:47:03", "organization_id": 387, "event": "file_support_ticket"}
+{"event_id": "6ece3cc6-7739-4d67-b871-b30a36626d7d", "timestamp": "2016-03-16 12:47:03", "organization_id": 387, "event": "file_support_ticket"}
+{"event_id": "6ece3cc6-7739-4d67-b871-b30a36626d7d", "timestamp": "2016-03-16 12:47:03", "organization_id": 387, "event": "file_support_ticket"}
+{"event_id": "81996309-fb69-4678-8057-b94382e8ed67", "timestamp": "2016-03-16 12:48:55", "extra_data": {"social_network_type": "Facebook"}, "user_id": 570, "event": "add_stream"}
+{"event_id": "81996309-fb69-4678-8057-b94382e8ed67", "timestamp": "2016-03-16 12:48:55", "extra_data": {"social_network_type": "Facebook"}, "user_id": 570, "event": "add_stream"}
+{"event_id": "81996309-fb69-4678-8057-b94382e8ed67", "timestamp": "2016-03-16 12:48:55", "extra_data": {"social_network_type": "Facebook"}, "user_id": 570, "event": "add_stream"}
+{"event_id": "67ef00e9-51ef-4023-92b9-22a8579dc475", "timestamp": "2016-03-16 12:52:30", "extra_data": {"social_network_type": "Facebook"}, "user_id": 603, "event": "drop_stream"}
+{"event_id": "67ef00e9-51ef-4023-92b9-22a8579dc475", "timestamp": "2016-03-16 12:52:30", "extra_data": {"social_network_type": "Facebook"}, "user_id": 603, "event": "drop_stream"}
+{"event_id": "67ef00e9-51ef-4023-92b9-22a8579dc475", "timestamp": "2016-03-16 12:52:30", "extra_data": {"social_network_type": "Facebook"}, "user_id": 603, "event": "drop_stream"}
+{"event_id": "0cc9b95c-c027-4fa7-a7be-b848d9fd316b", "timestamp": "2016-03-16 13:04:35", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3798, "event": "scroll_stream"}
+{"event_id": "0cc9b95c-c027-4fa7-a7be-b848d9fd316b", "timestamp": "2016-03-16 13:04:35", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3798, "event": "scroll_stream"}
+{"event_id": "0cc9b95c-c027-4fa7-a7be-b848d9fd316b", "timestamp": "2016-03-16 13:04:35", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3798, "event": "scroll_stream"}
+{"event_id": "c061651a-6d6e-412d-b854-28cff124c159", "timestamp": "2016-03-16 13:05:07", "organization_id": 100, "event": "email_support"}
+{"event_id": "c061651a-6d6e-412d-b854-28cff124c159", "timestamp": "2016-03-16 13:05:07", "organization_id": 100, "event": "email_support"}
+{"event_id": "c061651a-6d6e-412d-b854-28cff124c159", "timestamp": "2016-03-16 13:05:07", "organization_id": 100, "event": "email_support"}
+{"event_id": "a4fe64bb-58b2-487c-8d8b-8e25000d63ce", "timestamp": "2016-03-16 13:05:53", "extra_data": {"social_network_type": "Facebook"}, "user_id": 3199, "event": "message_sent"}
+{"event_id": "a4fe64bb-58b2-487c-8d8b-8e25000d63ce", "timestamp": "2016-03-16 13:05:53", "extra_data": {"social_network_type": "Facebook"}, "user_id": 3199, "event": "message_sent"}
+{"event_id": "a4fe64bb-58b2-487c-8d8b-8e25000d63ce", "timestamp": "2016-03-16 13:05:53", "extra_data": {"social_network_type": "Facebook"}, "user_id": 3199, "event": "message_sent"}
+{"event_id": "aea1e95c-1fde-46f2-bda7-d9a11a57de17", "timestamp": "2016-03-16 13:06:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9140, "event": "message_sent"}
+{"event_id": "aea1e95c-1fde-46f2-bda7-d9a11a57de17", "timestamp": "2016-03-16 13:06:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9140, "event": "message_sent"}
+{"event_id": "aea1e95c-1fde-46f2-bda7-d9a11a57de17", "timestamp": "2016-03-16 13:06:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9140, "event": "message_sent"}
+{"event_id": "f4d0e7cb-0e7d-405e-b0e0-b3170c3f9c9e", "timestamp": "2016-03-16 13:10:18", "extra_data": {"social_network_type": "Instagram"}, "user_id": 5662, "event": "add_stream"}
+{"event_id": "f4d0e7cb-0e7d-405e-b0e0-b3170c3f9c9e", "timestamp": "2016-03-16 13:10:18", "extra_data": {"social_network_type": "Instagram"}, "user_id": 5662, "event": "add_stream"}
+{"event_id": "f4d0e7cb-0e7d-405e-b0e0-b3170c3f9c9e", "timestamp": "2016-03-16 13:10:18", "extra_data": {"social_network_type": "Instagram"}, "user_id": 5662, "event": "add_stream"}
+{"event_id": "76c6a077-9b6b-4069-a4cf-f89d6c8e5331", "timestamp": "2016-03-16 13:14:52", "user_id": 3719, "event": "web_login"}
+{"event_id": "76c6a077-9b6b-4069-a4cf-f89d6c8e5331", "timestamp": "2016-03-16 13:14:52", "user_id": 3719, "event": "web_login"}
+{"event_id": "76c6a077-9b6b-4069-a4cf-f89d6c8e5331", "timestamp": "2016-03-16 13:14:52", "user_id": 3719, "event": "web_login"}
+{"event_id": "bca6e5cd-854e-46b2-8d8d-e21a6212c1b6", "timestamp": "2016-03-16 13:16:18", "user_id": 8650, "event": "ios_logout"}
+{"event_id": "bca6e5cd-854e-46b2-8d8d-e21a6212c1b6", "timestamp": "2016-03-16 13:16:18", "user_id": 8650, "event": "ios_logout"}
+{"event_id": "bca6e5cd-854e-46b2-8d8d-e21a6212c1b6", "timestamp": "2016-03-16 13:16:18", "user_id": 8650, "event": "ios_logout"}
+{"event_id": "e0dfd3e4-7a41-4f39-9686-12869161f8d8", "timestamp": "2016-03-16 13:18:24", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7592, "event": "scroll_stream"}
+{"event_id": "e0dfd3e4-7a41-4f39-9686-12869161f8d8", "timestamp": "2016-03-16 13:18:24", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7592, "event": "scroll_stream"}
+{"event_id": "e0dfd3e4-7a41-4f39-9686-12869161f8d8", "timestamp": "2016-03-16 13:18:24", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7592, "event": "scroll_stream"}
+{"event_id": "38b7e51e-7086-4503-b957-49accd8b6715", "timestamp": "2016-03-16 13:25:13", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6340, "event": "scroll_stream"}
+{"event_id": "38b7e51e-7086-4503-b957-49accd8b6715", "timestamp": "2016-03-16 13:25:13", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6340, "event": "scroll_stream"}
+{"event_id": "38b7e51e-7086-4503-b957-49accd8b6715", "timestamp": "2016-03-16 13:25:13", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6340, "event": "scroll_stream"}
+{"event_id": "0f64745f-8897-4885-91ba-a8c5e6e2740c", "timestamp": "2016-03-16 13:25:32", "extra_data": {"social_network_type": "Facebook"}, "user_id": 8563, "event": "scroll_stream"}
+{"event_id": "0f64745f-8897-4885-91ba-a8c5e6e2740c", "timestamp": "2016-03-16 13:25:32", "extra_data": {"social_network_type": "Facebook"}, "user_id": 8563, "event": "scroll_stream"}
+{"event_id": "0f64745f-8897-4885-91ba-a8c5e6e2740c", "timestamp": "2016-03-16 13:25:32", "extra_data": {"social_network_type": "Facebook"}, "user_id": 8563, "event": "scroll_stream"}
+{"event_id": "2e6f753d-8076-4664-816b-30aaa5c0b440", "timestamp": "2016-03-16 13:28:34", "user_id": 7311, "event": "ios_logout"}
+{"event_id": "2e6f753d-8076-4664-816b-30aaa5c0b440", "timestamp": "2016-03-16 13:28:34", "user_id": 7311, "event": "ios_logout"}
+{"event_id": "2e6f753d-8076-4664-816b-30aaa5c0b440", "timestamp": "2016-03-16 13:28:34", "user_id": 7311, "event": "ios_logout"}
+{"event_id": "b4a43eed-9360-4e68-8e3c-2e97a21df449", "timestamp": "2016-03-16 13:34:46", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6916, "event": "scroll_stream"}
+{"event_id": "b4a43eed-9360-4e68-8e3c-2e97a21df449", "timestamp": "2016-03-16 13:34:46", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6916, "event": "scroll_stream"}
+{"event_id": "b4a43eed-9360-4e68-8e3c-2e97a21df449", "timestamp": "2016-03-16 13:34:46", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6916, "event": "scroll_stream"}
+{"event_id": "dfbdde94-2e38-457d-8d2d-80198f50813f", "timestamp": "2016-03-16 13:36:36", "user_id": 8925, "event": "android_login"}
+{"event_id": "dfbdde94-2e38-457d-8d2d-80198f50813f", "timestamp": "2016-03-16 13:36:36", "user_id": 8925, "event": "android_login"}
+{"event_id": "dfbdde94-2e38-457d-8d2d-80198f50813f", "timestamp": "2016-03-16 13:36:36", "user_id": 8925, "event": "android_login"}
+{"event_id": "5217e96a-e197-42c0-a476-2ed00803e658", "timestamp": "2016-03-16 13:37:02", "user_id": 3951, "event": "android_logout"}
+{"event_id": "5217e96a-e197-42c0-a476-2ed00803e658", "timestamp": "2016-03-16 13:37:02", "user_id": 3951, "event": "android_logout"}
+{"event_id": "5217e96a-e197-42c0-a476-2ed00803e658", "timestamp": "2016-03-16 13:37:02", "user_id": 3951, "event": "android_logout"}
+{"event_id": "95f423e2-f3da-45b8-8603-145c2d7faa66", "timestamp": "2016-03-16 13:42:38", "extra_data": {"social_network_type": "Twitter"}, "user_id": 4615, "event": "scroll_stream"}
+{"event_id": "95f423e2-f3da-45b8-8603-145c2d7faa66", "timestamp": "2016-03-16 13:42:38", "extra_data": {"social_network_type": "Twitter"}, "user_id": 4615, "event": "scroll_stream"}
+{"event_id": "95f423e2-f3da-45b8-8603-145c2d7faa66", "timestamp": "2016-03-16 13:42:38", "extra_data": {"social_network_type": "Twitter"}, "user_id": 4615, "event": "scroll_stream"}
+{"event_id": "6f1b3e9c-6fed-4b89-a5d1-4d38b61c88cc", "timestamp": "2016-03-16 13:46:50", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2510, "event": "message_sent"}
+{"event_id": "6f1b3e9c-6fed-4b89-a5d1-4d38b61c88cc", "timestamp": "2016-03-16 13:46:50", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2510, "event": "message_sent"}
+{"event_id": "6f1b3e9c-6fed-4b89-a5d1-4d38b61c88cc", "timestamp": "2016-03-16 13:46:50", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2510, "event": "message_sent"}
+{"event_id": "45901bc4-35de-416b-8c30-c3d4ba0c90fc", "timestamp": "2016-03-16 13:50:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7498, "event": "add_stream"}
+{"event_id": "45901bc4-35de-416b-8c30-c3d4ba0c90fc", "timestamp": "2016-03-16 13:50:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7498, "event": "add_stream"}
+{"event_id": "45901bc4-35de-416b-8c30-c3d4ba0c90fc", "timestamp": "2016-03-16 13:50:08", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7498, "event": "add_stream"}
+{"event_id": "a95755d5-067f-4e79-9a45-ccbda195a17d", "timestamp": "2016-03-16 13:51:18", "extra_data": {"social_network_type": "Facebook"}, "user_id": 725, "event": "scroll_stream"}
+{"event_id": "a95755d5-067f-4e79-9a45-ccbda195a17d", "timestamp": "2016-03-16 13:51:18", "extra_data": {"social_network_type": "Facebook"}, "user_id": 725, "event": "scroll_stream"}
+{"event_id": "a95755d5-067f-4e79-9a45-ccbda195a17d", "timestamp": "2016-03-16 13:51:18", "extra_data": {"social_network_type": "Facebook"}, "user_id": 725, "event": "scroll_stream"}
+{"event_id": "3c88d541-8fbe-42bb-a962-3bb989fe8dda", "timestamp": "2016-03-16 13:54:58", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 3730, "event": "scroll_stream"}
+{"event_id": "3c88d541-8fbe-42bb-a962-3bb989fe8dda", "timestamp": "2016-03-16 13:54:58", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 3730, "event": "scroll_stream"}
+{"event_id": "3c88d541-8fbe-42bb-a962-3bb989fe8dda", "timestamp": "2016-03-16 13:54:58", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 3730, "event": "scroll_stream"}
+{"event_id": "ddc91ee3-4298-4877-94f4-eb2bdc02a9e7", "timestamp": "2016-03-16 13:56:42", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7617, "event": "scroll_stream"}
+{"event_id": "ddc91ee3-4298-4877-94f4-eb2bdc02a9e7", "timestamp": "2016-03-16 13:56:42", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7617, "event": "scroll_stream"}
+{"event_id": "ddc91ee3-4298-4877-94f4-eb2bdc02a9e7", "timestamp": "2016-03-16 13:56:42", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7617, "event": "scroll_stream"}
+{"event_id": "8a3be95e-017b-4dcb-967e-77b5baa4c169", "timestamp": "2016-03-16 14:00:25", "user_id": 7965, "event": "web_logout"}
+{"event_id": "8a3be95e-017b-4dcb-967e-77b5baa4c169", "timestamp": "2016-03-16 14:00:25", "user_id": 7965, "event": "web_logout"}
+{"event_id": "8a3be95e-017b-4dcb-967e-77b5baa4c169", "timestamp": "2016-03-16 14:00:25", "user_id": 7965, "event": "web_logout"}
+{"event_id": "a6800fc0-7c2d-4fd3-a049-0e6d71395392", "timestamp": "2016-03-16 14:01:55", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7136, "event": "message_sent"}
+{"event_id": "a6800fc0-7c2d-4fd3-a049-0e6d71395392", "timestamp": "2016-03-16 14:01:55", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7136, "event": "message_sent"}
+{"event_id": "a6800fc0-7c2d-4fd3-a049-0e6d71395392", "timestamp": "2016-03-16 14:01:55", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7136, "event": "message_sent"}
+{"event_id": "e5914a90-a5dd-4983-8dc7-6292e54b73f9", "timestamp": "2016-03-16 14:02:45", "extra_data": {"social_network_type": "Instagram"}, "user_id": 6753, "event": "scroll_stream"}
+{"event_id": "e5914a90-a5dd-4983-8dc7-6292e54b73f9", "timestamp": "2016-03-16 14:02:45", "extra_data": {"social_network_type": "Instagram"}, "user_id": 6753, "event": "scroll_stream"}
+{"event_id": "e5914a90-a5dd-4983-8dc7-6292e54b73f9", "timestamp": "2016-03-16 14:02:45", "extra_data": {"social_network_type": "Instagram"}, "user_id": 6753, "event": "scroll_stream"}
+{"event_id": "7e41c5fe-1af7-4588-ae96-044339dea9c6", "timestamp": "2016-03-16 14:06:14", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5214, "event": "message_sent"}
+{"event_id": "7e41c5fe-1af7-4588-ae96-044339dea9c6", "timestamp": "2016-03-16 14:06:14", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5214, "event": "message_sent"}
+{"event_id": "7e41c5fe-1af7-4588-ae96-044339dea9c6", "timestamp": "2016-03-16 14:06:14", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5214, "event": "message_sent"}
+{"event_id": "22028690-d4c3-43b7-941a-8b4cabb5e506", "timestamp": "2016-03-16 14:07:03", "user_id": 5432, "event": "web_login"}
+{"event_id": "22028690-d4c3-43b7-941a-8b4cabb5e506", "timestamp": "2016-03-16 14:07:03", "user_id": 5432, "event": "web_login"}
+{"event_id": "22028690-d4c3-43b7-941a-8b4cabb5e506", "timestamp": "2016-03-16 14:07:03", "user_id": 5432, "event": "web_login"}
+{"event_id": "4e84b326-b7d4-42c9-82cf-97c8c444f79f", "timestamp": "2016-03-16 14:07:29", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3773, "event": "drop_stream"}
+{"event_id": "4e84b326-b7d4-42c9-82cf-97c8c444f79f", "timestamp": "2016-03-16 14:07:29", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3773, "event": "drop_stream"}
+{"event_id": "4e84b326-b7d4-42c9-82cf-97c8c444f79f", "timestamp": "2016-03-16 14:07:29", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3773, "event": "drop_stream"}
+{"event_id": "e4f799ab-e463-4549-a2b0-a842d4ab2f1a", "timestamp": "2016-03-16 14:08:17", "extra_data": {"social_network_type": "Instagram"}, "user_id": 4153, "event": "scroll_stream"}
+{"event_id": "e4f799ab-e463-4549-a2b0-a842d4ab2f1a", "timestamp": "2016-03-16 14:08:17", "extra_data": {"social_network_type": "Instagram"}, "user_id": 4153, "event": "scroll_stream"}
+{"event_id": "e4f799ab-e463-4549-a2b0-a842d4ab2f1a", "timestamp": "2016-03-16 14:08:17", "extra_data": {"social_network_type": "Instagram"}, "user_id": 4153, "event": "scroll_stream"}
+{"event_id": "c4f4e0e9-fd5b-451a-bc3e-0befe6e05528", "timestamp": "2016-03-16 14:08:54", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2751, "event": "message_sent"}
+{"event_id": "c4f4e0e9-fd5b-451a-bc3e-0befe6e05528", "timestamp": "2016-03-16 14:08:54", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2751, "event": "message_sent"}
+{"event_id": "c4f4e0e9-fd5b-451a-bc3e-0befe6e05528", "timestamp": "2016-03-16 14:08:54", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2751, "event": "message_sent"}
+{"event_id": "ab093522-5051-41c8-8437-a3cfc6ba83d3", "timestamp": "2016-03-16 14:13:34", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 2769, "event": "message_sent"}
+{"event_id": "ab093522-5051-41c8-8437-a3cfc6ba83d3", "timestamp": "2016-03-16 14:13:34", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 2769, "event": "message_sent"}
+{"event_id": "ab093522-5051-41c8-8437-a3cfc6ba83d3", "timestamp": "2016-03-16 14:13:34", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 2769, "event": "message_sent"}
+{"event_id": "05891341-6030-4d62-80d5-dd4d03e63b9a", "timestamp": "2016-03-16 14:16:08", "user_id": 4972, "event": "ios_login"}
+{"event_id": "05891341-6030-4d62-80d5-dd4d03e63b9a", "timestamp": "2016-03-16 14:16:08", "user_id": 4972, "event": "ios_login"}
+{"event_id": "05891341-6030-4d62-80d5-dd4d03e63b9a", "timestamp": "2016-03-16 14:16:08", "user_id": 4972, "event": "ios_login"}
+{"event_id": "149eedff-c3ea-40c3-bd9d-afc76e685832", "timestamp": "2016-03-16 14:17:42", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3704, "event": "message_sent"}
+{"event_id": "149eedff-c3ea-40c3-bd9d-afc76e685832", "timestamp": "2016-03-16 14:17:42", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3704, "event": "message_sent"}
+{"event_id": "149eedff-c3ea-40c3-bd9d-afc76e685832", "timestamp": "2016-03-16 14:17:42", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3704, "event": "message_sent"}
+{"event_id": "0d80f487-5ac9-4323-8f3c-1d5d674007bb", "timestamp": "2016-03-16 14:20:14", "extra_data": {"social_network_type": "Instagram"}, "user_id": 1950, "event": "drop_stream"}
+{"event_id": "0d80f487-5ac9-4323-8f3c-1d5d674007bb", "timestamp": "2016-03-16 14:20:14", "extra_data": {"social_network_type": "Instagram"}, "user_id": 1950, "event": "drop_stream"}
+{"event_id": "0d80f487-5ac9-4323-8f3c-1d5d674007bb", "timestamp": "2016-03-16 14:20:14", "extra_data": {"social_network_type": "Instagram"}, "user_id": 1950, "event": "drop_stream"}
+{"event_id": "7694b4ef-cc8e-4471-bfe2-ea9270c95a5d", "timestamp": "2016-03-16 14:20:40", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5187, "event": "scroll_stream"}
+{"event_id": "7694b4ef-cc8e-4471-bfe2-ea9270c95a5d", "timestamp": "2016-03-16 14:20:40", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5187, "event": "scroll_stream"}
+{"event_id": "7694b4ef-cc8e-4471-bfe2-ea9270c95a5d", "timestamp": "2016-03-16 14:20:40", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5187, "event": "scroll_stream"}
+{"event_id": "893ae9d4-cf39-41fb-b37f-a0819f3221c9", "timestamp": "2016-03-16 14:23:58", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1625, "event": "add_stream"}
+{"event_id": "893ae9d4-cf39-41fb-b37f-a0819f3221c9", "timestamp": "2016-03-16 14:23:58", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1625, "event": "add_stream"}
+{"event_id": "893ae9d4-cf39-41fb-b37f-a0819f3221c9", "timestamp": "2016-03-16 14:23:58", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1625, "event": "add_stream"}
+{"event_id": "ca6777d8-e9fa-472d-8baf-be6c3350981c", "timestamp": "2016-03-16 14:28:14", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1049, "event": "scroll_stream"}
+{"event_id": "ca6777d8-e9fa-472d-8baf-be6c3350981c", "timestamp": "2016-03-16 14:28:14", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1049, "event": "scroll_stream"}
+{"event_id": "ca6777d8-e9fa-472d-8baf-be6c3350981c", "timestamp": "2016-03-16 14:28:14", "extra_data": {"social_network_type": "Facebook"}, "user_id": 1049, "event": "scroll_stream"}
+{"event_id": "afed081d-a96a-4ddf-b179-920c19056489", "timestamp": "2016-03-16 14:33:02", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3859, "event": "scroll_stream"}
+{"event_id": "afed081d-a96a-4ddf-b179-920c19056489", "timestamp": "2016-03-16 14:33:02", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3859, "event": "scroll_stream"}
+{"event_id": "afed081d-a96a-4ddf-b179-920c19056489", "timestamp": "2016-03-16 14:33:02", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3859, "event": "scroll_stream"}
+{"event_id": "af83def8-10e2-44a1-899f-0be517c2f87b", "timestamp": "2016-03-16 14:40:58", "organization_id": 14, "event": "file_support_ticket"}
+{"event_id": "af83def8-10e2-44a1-899f-0be517c2f87b", "timestamp": "2016-03-16 14:40:58", "organization_id": 14, "event": "file_support_ticket"}
+{"event_id": "af83def8-10e2-44a1-899f-0be517c2f87b", "timestamp": "2016-03-16 14:40:58", "organization_id": 14, "event": "file_support_ticket"}
+{"event_id": "8773a7a4-1d9e-478c-851e-616dcdcb7fb9", "timestamp": "2016-03-16 14:42:25", "user_id": 9351, "event": "web_login"}
+{"event_id": "8773a7a4-1d9e-478c-851e-616dcdcb7fb9", "timestamp": "2016-03-16 14:42:25", "user_id": 9351, "event": "web_login"}
+{"event_id": "8773a7a4-1d9e-478c-851e-616dcdcb7fb9", "timestamp": "2016-03-16 14:42:25", "user_id": 9351, "event": "web_login"}
+{"event_id": "0855c4b1-01c3-4bf5-b0b1-ee5a5bd09949", "timestamp": "2016-03-16 14:44:28", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8430, "event": "drop_stream"}
+{"event_id": "0855c4b1-01c3-4bf5-b0b1-ee5a5bd09949", "timestamp": "2016-03-16 14:44:28", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8430, "event": "drop_stream"}
+{"event_id": "0855c4b1-01c3-4bf5-b0b1-ee5a5bd09949", "timestamp": "2016-03-16 14:44:28", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8430, "event": "drop_stream"}
+{"event_id": "4cd954ea-c502-4511-870f-c4cf7f7d3120", "timestamp": "2016-03-16 14:44:45", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6185, "event": "message_sent"}
+{"event_id": "4cd954ea-c502-4511-870f-c4cf7f7d3120", "timestamp": "2016-03-16 14:44:45", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6185, "event": "message_sent"}
+{"event_id": "4cd954ea-c502-4511-870f-c4cf7f7d3120", "timestamp": "2016-03-16 14:44:45", "extra_data": {"social_network_type": "Facebook"}, "user_id": 6185, "event": "message_sent"}
+{"event_id": "7a4cb15f-9389-4ad5-a1fd-95c34ef39065", "timestamp": "2016-03-16 14:44:57", "extra_data": {"payment_amount": 591004.79, "payment_processor": "PayPal"}, "organization_id": 301, "event": "paid_for_entperise_package"}
+{"event_id": "7a4cb15f-9389-4ad5-a1fd-95c34ef39065", "timestamp": "2016-03-16 14:44:57", "extra_data": {"payment_amount": 591004.79, "payment_processor": "PayPal"}, "organization_id": 301, "event": "paid_for_entperise_package"}
+{"event_id": "7a4cb15f-9389-4ad5-a1fd-95c34ef39065", "timestamp": "2016-03-16 14:44:57", "extra_data": {"payment_amount": 591004.79, "payment_processor": "PayPal"}, "organization_id": 301, "event": "paid_for_entperise_package"}
+{"event_id": "63db02f8-9c3d-4046-bacf-4ecab92d180f", "timestamp": "2016-03-16 14:47:25", "extra_data": {"social_network_type": "Instagram"}, "user_id": 5235, "event": "message_sent"}
+{"event_id": "63db02f8-9c3d-4046-bacf-4ecab92d180f", "timestamp": "2016-03-16 14:47:25", "extra_data": {"social_network_type": "Instagram"}, "user_id": 5235, "event": "message_sent"}
+{"event_id": "63db02f8-9c3d-4046-bacf-4ecab92d180f", "timestamp": "2016-03-16 14:47:25", "extra_data": {"social_network_type": "Instagram"}, "user_id": 5235, "event": "message_sent"}
+{"event_id": "43d11561-35d0-4a63-a599-3b5c0f3f9e26", "timestamp": "2016-03-16 14:52:06", "extra_data": {"social_network_type": "Instagram"}, "user_id": 5462, "event": "scroll_stream"}
+{"event_id": "43d11561-35d0-4a63-a599-3b5c0f3f9e26", "timestamp": "2016-03-16 14:52:06", "extra_data": {"social_network_type": "Instagram"}, "user_id": 5462, "event": "scroll_stream"}
+{"event_id": "43d11561-35d0-4a63-a599-3b5c0f3f9e26", "timestamp": "2016-03-16 14:52:06", "extra_data": {"social_network_type": "Instagram"}, "user_id": 5462, "event": "scroll_stream"}
+{"event_id": "3ae850db-bfc3-4f39-b96a-4d2b71929f55", "timestamp": "2016-03-16 15:00:10", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2405, "event": "message_sent"}
+{"event_id": "3ae850db-bfc3-4f39-b96a-4d2b71929f55", "timestamp": "2016-03-16 15:00:10", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2405, "event": "message_sent"}
+{"event_id": "3ae850db-bfc3-4f39-b96a-4d2b71929f55", "timestamp": "2016-03-16 15:00:10", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2405, "event": "message_sent"}
+{"event_id": "78515607-869e-47c0-a307-cc603f7f3006", "timestamp": "2016-03-16 15:04:20", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 111, "event": "message_sent"}
+{"event_id": "78515607-869e-47c0-a307-cc603f7f3006", "timestamp": "2016-03-16 15:04:20", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 111, "event": "message_sent"}
+{"event_id": "78515607-869e-47c0-a307-cc603f7f3006", "timestamp": "2016-03-16 15:04:20", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 111, "event": "message_sent"}
+{"event_id": "a2a67d52-bb1d-4690-b730-fff98e96be63", "timestamp": "2016-03-16 15:09:11", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5759, "event": "add_stream"}
+{"event_id": "a2a67d52-bb1d-4690-b730-fff98e96be63", "timestamp": "2016-03-16 15:09:11", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5759, "event": "add_stream"}
+{"event_id": "a2a67d52-bb1d-4690-b730-fff98e96be63", "timestamp": "2016-03-16 15:09:11", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5759, "event": "add_stream"}
+{"event_id": "ac75bb18-a903-46c8-ab50-eba25a88d938", "timestamp": "2016-03-16 15:09:50", "extra_data": {"social_network_type": "Instagram"}, "user_id": 39, "event": "add_stream"}
+{"event_id": "ac75bb18-a903-46c8-ab50-eba25a88d938", "timestamp": "2016-03-16 15:09:50", "extra_data": {"social_network_type": "Instagram"}, "user_id": 39, "event": "add_stream"}
+{"event_id": "ac75bb18-a903-46c8-ab50-eba25a88d938", "timestamp": "2016-03-16 15:09:50", "extra_data": {"social_network_type": "Instagram"}, "user_id": 39, "event": "add_stream"}
+{"event_id": "24e5a038-0d31-4ab4-874b-d37ed6f7960f", "timestamp": "2016-03-16 15:15:58", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8902, "event": "message_sent"}
+{"event_id": "24e5a038-0d31-4ab4-874b-d37ed6f7960f", "timestamp": "2016-03-16 15:15:58", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8902, "event": "message_sent"}
+{"event_id": "24e5a038-0d31-4ab4-874b-d37ed6f7960f", "timestamp": "2016-03-16 15:15:58", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8902, "event": "message_sent"}
+{"event_id": "cc81da21-3d9b-4ae8-b491-778e368c46f2", "timestamp": "2016-03-16 15:18:11", "user_id": 5326, "event": "ios_logout"}
+{"event_id": "cc81da21-3d9b-4ae8-b491-778e368c46f2", "timestamp": "2016-03-16 15:18:11", "user_id": 5326, "event": "ios_logout"}
+{"event_id": "cc81da21-3d9b-4ae8-b491-778e368c46f2", "timestamp": "2016-03-16 15:18:11", "user_id": 5326, "event": "ios_logout"}
+{"event_id": "8e817daf-2660-4659-aa30-bacc1ccf1ee5", "timestamp": "2016-03-16 15:20:01", "extra_data": {"social_network_type": "Twitter"}, "user_id": 903, "event": "scroll_stream"}
+{"event_id": "8e817daf-2660-4659-aa30-bacc1ccf1ee5", "timestamp": "2016-03-16 15:20:01", "extra_data": {"social_network_type": "Twitter"}, "user_id": 903, "event": "scroll_stream"}
+{"event_id": "8e817daf-2660-4659-aa30-bacc1ccf1ee5", "timestamp": "2016-03-16 15:20:01", "extra_data": {"social_network_type": "Twitter"}, "user_id": 903, "event": "scroll_stream"}
+{"event_id": "8ccdb8bb-fdcd-4183-8d87-9f6d39ed92cf", "timestamp": "2016-03-16 15:24:11", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5247, "event": "message_sent"}
+{"event_id": "8ccdb8bb-fdcd-4183-8d87-9f6d39ed92cf", "timestamp": "2016-03-16 15:24:11", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5247, "event": "message_sent"}
+{"event_id": "8ccdb8bb-fdcd-4183-8d87-9f6d39ed92cf", "timestamp": "2016-03-16 15:24:11", "extra_data": {"social_network_type": "Twitter"}, "user_id": 5247, "event": "message_sent"}
+{"event_id": "b755ab43-108e-41dd-9f60-9de5375e78f6", "timestamp": "2016-03-16 15:30:20", "extra_data": {"social_network_type": "Instagram"}, "user_id": 3927, "event": "scroll_stream"}
+{"event_id": "b755ab43-108e-41dd-9f60-9de5375e78f6", "timestamp": "2016-03-16 15:30:20", "extra_data": {"social_network_type": "Instagram"}, "user_id": 3927, "event": "scroll_stream"}
+{"event_id": "b755ab43-108e-41dd-9f60-9de5375e78f6", "timestamp": "2016-03-16 15:30:20", "extra_data": {"social_network_type": "Instagram"}, "user_id": 3927, "event": "scroll_stream"}
+{"event_id": "9c7e67aa-3bbf-4595-9c1a-aa39455e598b", "timestamp": "2016-03-16 15:33:48", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2487, "event": "add_stream"}
+{"event_id": "9c7e67aa-3bbf-4595-9c1a-aa39455e598b", "timestamp": "2016-03-16 15:33:48", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2487, "event": "add_stream"}
+{"event_id": "9c7e67aa-3bbf-4595-9c1a-aa39455e598b", "timestamp": "2016-03-16 15:33:48", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2487, "event": "add_stream"}
+{"event_id": "be827d0e-ffed-4631-8717-c2fb1658a2cb", "timestamp": "2016-03-16 15:35:12", "extra_data": {"social_network_type": "Instagram"}, "user_id": 9219, "event": "add_stream"}
+{"event_id": "be827d0e-ffed-4631-8717-c2fb1658a2cb", "timestamp": "2016-03-16 15:35:12", "extra_data": {"social_network_type": "Instagram"}, "user_id": 9219, "event": "add_stream"}
+{"event_id": "be827d0e-ffed-4631-8717-c2fb1658a2cb", "timestamp": "2016-03-16 15:35:12", "extra_data": {"social_network_type": "Instagram"}, "user_id": 9219, "event": "add_stream"}
+{"event_id": "68f358f6-b9e9-49fd-9b0b-5b4c3c6f4c9b", "timestamp": "2016-03-16 15:36:53", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6711, "event": "message_sent"}
+{"event_id": "68f358f6-b9e9-49fd-9b0b-5b4c3c6f4c9b", "timestamp": "2016-03-16 15:36:53", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6711, "event": "message_sent"}
+{"event_id": "68f358f6-b9e9-49fd-9b0b-5b4c3c6f4c9b", "timestamp": "2016-03-16 15:36:53", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6711, "event": "message_sent"}
+{"event_id": "3ffc3b10-eb62-4685-a9e9-40d1be47d88e", "timestamp": "2016-03-16 15:37:01", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2578, "event": "message_sent"}
+{"event_id": "3ffc3b10-eb62-4685-a9e9-40d1be47d88e", "timestamp": "2016-03-16 15:37:01", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2578, "event": "message_sent"}
+{"event_id": "3ffc3b10-eb62-4685-a9e9-40d1be47d88e", "timestamp": "2016-03-16 15:37:01", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2578, "event": "message_sent"}
+{"event_id": "861bbb25-e198-44a6-8bca-00174f25ee28", "timestamp": "2016-03-16 15:37:28", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2915, "event": "message_sent"}
+{"event_id": "861bbb25-e198-44a6-8bca-00174f25ee28", "timestamp": "2016-03-16 15:37:28", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2915, "event": "message_sent"}
+{"event_id": "861bbb25-e198-44a6-8bca-00174f25ee28", "timestamp": "2016-03-16 15:37:28", "extra_data": {"social_network_type": "Instagram"}, "user_id": 2915, "event": "message_sent"}
+{"event_id": "184e67ef-c3dc-4899-b5d8-d785b0598031", "timestamp": "2016-03-16 15:39:38", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8302, "event": "scroll_stream"}
+{"event_id": "184e67ef-c3dc-4899-b5d8-d785b0598031", "timestamp": "2016-03-16 15:39:38", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8302, "event": "scroll_stream"}
+{"event_id": "184e67ef-c3dc-4899-b5d8-d785b0598031", "timestamp": "2016-03-16 15:39:38", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8302, "event": "scroll_stream"}
+{"event_id": "8285235f-8a54-42b6-bccc-8b2bbca8811e", "timestamp": "2016-03-16 15:40:15", "extra_data": {"social_network_type": "Facebook"}, "user_id": 8891, "event": "add_stream"}
+{"event_id": "8285235f-8a54-42b6-bccc-8b2bbca8811e", "timestamp": "2016-03-16 15:40:15", "extra_data": {"social_network_type": "Facebook"}, "user_id": 8891, "event": "add_stream"}
+{"event_id": "8285235f-8a54-42b6-bccc-8b2bbca8811e", "timestamp": "2016-03-16 15:40:15", "extra_data": {"social_network_type": "Facebook"}, "user_id": 8891, "event": "add_stream"}
+{"event_id": "06b8b891-d977-4993-b9da-0a0a4f8083ea", "timestamp": "2016-03-16 15:40:22", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8257, "event": "message_sent"}
+{"event_id": "06b8b891-d977-4993-b9da-0a0a4f8083ea", "timestamp": "2016-03-16 15:40:22", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8257, "event": "message_sent"}
+{"event_id": "06b8b891-d977-4993-b9da-0a0a4f8083ea", "timestamp": "2016-03-16 15:40:22", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8257, "event": "message_sent"}
+{"event_id": "4b241d2d-1bfb-403a-9ea6-647e88e935b9", "timestamp": "2016-03-16 15:42:37", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7962, "event": "message_sent"}
+{"event_id": "4b241d2d-1bfb-403a-9ea6-647e88e935b9", "timestamp": "2016-03-16 15:42:37", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7962, "event": "message_sent"}
+{"event_id": "4b241d2d-1bfb-403a-9ea6-647e88e935b9", "timestamp": "2016-03-16 15:42:37", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7962, "event": "message_sent"}
+{"event_id": "0e42216d-4e36-4ac3-bf03-f3fd3064ccde", "timestamp": "2016-03-16 15:42:54", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7015, "event": "drop_stream"}
+{"event_id": "0e42216d-4e36-4ac3-bf03-f3fd3064ccde", "timestamp": "2016-03-16 15:42:54", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7015, "event": "drop_stream"}
+{"event_id": "0e42216d-4e36-4ac3-bf03-f3fd3064ccde", "timestamp": "2016-03-16 15:42:54", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7015, "event": "drop_stream"}
+{"event_id": "c8118668-82df-4ec9-93e0-ebcde993d0b0", "timestamp": "2016-03-16 15:46:42", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2530, "event": "add_stream"}
+{"event_id": "c8118668-82df-4ec9-93e0-ebcde993d0b0", "timestamp": "2016-03-16 15:46:42", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2530, "event": "add_stream"}
+{"event_id": "c8118668-82df-4ec9-93e0-ebcde993d0b0", "timestamp": "2016-03-16 15:46:42", "extra_data": {"social_network_type": "Facebook"}, "user_id": 2530, "event": "add_stream"}
+{"event_id": "684cf40c-3a3f-418b-92d4-43c421d34084", "timestamp": "2016-03-16 15:47:46", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9814, "event": "add_stream"}
+{"event_id": "684cf40c-3a3f-418b-92d4-43c421d34084", "timestamp": "2016-03-16 15:47:46", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9814, "event": "add_stream"}
+{"event_id": "684cf40c-3a3f-418b-92d4-43c421d34084", "timestamp": "2016-03-16 15:47:46", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9814, "event": "add_stream"}
+{"event_id": "0d0ddaab-1463-42f1-a0bc-998eb727645a", "timestamp": "2016-03-16 15:49:31", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 8243, "event": "add_stream"}
+{"event_id": "0d0ddaab-1463-42f1-a0bc-998eb727645a", "timestamp": "2016-03-16 15:49:31", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 8243, "event": "add_stream"}
+{"event_id": "0d0ddaab-1463-42f1-a0bc-998eb727645a", "timestamp": "2016-03-16 15:49:31", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 8243, "event": "add_stream"}
+{"event_id": "9196091e-7580-4264-afea-6ad1bc0563fb", "timestamp": "2016-03-16 15:49:57", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7987, "event": "add_stream"}
+{"event_id": "9196091e-7580-4264-afea-6ad1bc0563fb", "timestamp": "2016-03-16 15:49:57", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7987, "event": "add_stream"}
+{"event_id": "9196091e-7580-4264-afea-6ad1bc0563fb", "timestamp": "2016-03-16 15:49:57", "extra_data": {"social_network_type": "Twitter"}, "user_id": 7987, "event": "add_stream"}
+{"event_id": "4eccd305-ae05-4ac3-b4f0-0868d90cdfda", "timestamp": "2016-03-16 15:49:59", "user_id": 8102, "event": "web_login"}
+{"event_id": "4eccd305-ae05-4ac3-b4f0-0868d90cdfda", "timestamp": "2016-03-16 15:49:59", "user_id": 8102, "event": "web_login"}
+{"event_id": "4eccd305-ae05-4ac3-b4f0-0868d90cdfda", "timestamp": "2016-03-16 15:49:59", "user_id": 8102, "event": "web_login"}
+{"event_id": "8fc2a70b-8a37-4bda-b023-bdec448519f8", "timestamp": "2016-03-16 15:51:53", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6269, "event": "add_stream"}
+{"event_id": "8fc2a70b-8a37-4bda-b023-bdec448519f8", "timestamp": "2016-03-16 15:51:53", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6269, "event": "add_stream"}
+{"event_id": "8fc2a70b-8a37-4bda-b023-bdec448519f8", "timestamp": "2016-03-16 15:51:53", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6269, "event": "add_stream"}
+{"event_id": "d8f33f99-b5e2-4010-8de0-ae88f7cb1648", "timestamp": "2016-03-16 15:53:20", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6815, "event": "add_stream"}
+{"event_id": "d8f33f99-b5e2-4010-8de0-ae88f7cb1648", "timestamp": "2016-03-16 15:53:20", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6815, "event": "add_stream"}
+{"event_id": "d8f33f99-b5e2-4010-8de0-ae88f7cb1648", "timestamp": "2016-03-16 15:53:20", "extra_data": {"social_network_type": "Twitter"}, "user_id": 6815, "event": "add_stream"}
+{"event_id": "f6ae44af-4241-4287-8f6a-fad63e645e6e", "timestamp": "2016-03-16 15:54:21", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9697, "event": "scroll_stream"}
+{"event_id": "f6ae44af-4241-4287-8f6a-fad63e645e6e", "timestamp": "2016-03-16 15:54:21", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9697, "event": "scroll_stream"}
+{"event_id": "f6ae44af-4241-4287-8f6a-fad63e645e6e", "timestamp": "2016-03-16 15:54:21", "extra_data": {"social_network_type": "Twitter"}, "user_id": 9697, "event": "scroll_stream"}
+{"event_id": "5852090b-cc4b-4cd4-a459-17485d29c7e4", "timestamp": "2016-03-16 15:57:41", "extra_data": {"social_network_type": "Twitter"}, "user_id": 1387, "event": "message_sent"}
+{"event_id": "5852090b-cc4b-4cd4-a459-17485d29c7e4", "timestamp": "2016-03-16 15:57:41", "extra_data": {"social_network_type": "Twitter"}, "user_id": 1387, "event": "message_sent"}
+{"event_id": "5852090b-cc4b-4cd4-a459-17485d29c7e4", "timestamp": "2016-03-16 15:57:41", "extra_data": {"social_network_type": "Twitter"}, "user_id": 1387, "event": "message_sent"}
+{"event_id": "daff918f-e0e4-4b9e-b49e-0b650cd9d1f1", "timestamp": "2016-03-16 16:11:45", "extra_data": {"social_network_type": "Twitter"}, "user_id": 774, "event": "add_stream"}
+{"event_id": "daff918f-e0e4-4b9e-b49e-0b650cd9d1f1", "timestamp": "2016-03-16 16:11:45", "extra_data": {"social_network_type": "Twitter"}, "user_id": 774, "event": "add_stream"}
+{"event_id": "daff918f-e0e4-4b9e-b49e-0b650cd9d1f1", "timestamp": "2016-03-16 16:11:45", "extra_data": {"social_network_type": "Twitter"}, "user_id": 774, "event": "add_stream"}
+{"event_id": "dd13a5bb-366a-4b50-98c0-028f6971dcde", "timestamp": "2016-03-16 16:17:22", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 2559, "event": "drop_stream"}
+{"event_id": "dd13a5bb-366a-4b50-98c0-028f6971dcde", "timestamp": "2016-03-16 16:17:22", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 2559, "event": "drop_stream"}
+{"event_id": "dd13a5bb-366a-4b50-98c0-028f6971dcde", "timestamp": "2016-03-16 16:17:22", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 2559, "event": "drop_stream"}
+{"event_id": "60e4bd42-37f6-43ed-9a94-bae2c796d0a8", "timestamp": "2016-03-16 16:17:52", "extra_data": {"social_network_type": "Facebook"}, "user_id": 5772, "event": "message_sent"}
+{"event_id": "60e4bd42-37f6-43ed-9a94-bae2c796d0a8", "timestamp": "2016-03-16 16:17:52", "extra_data": {"social_network_type": "Facebook"}, "user_id": 5772, "event": "message_sent"}
+{"event_id": "60e4bd42-37f6-43ed-9a94-bae2c796d0a8", "timestamp": "2016-03-16 16:17:52", "extra_data": {"social_network_type": "Facebook"}, "user_id": 5772, "event": "message_sent"}
+{"event_id": "8ee374bc-0995-4d4f-a39a-8c1449aaaf0d", "timestamp": "2016-03-16 16:18:10", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3094, "event": "add_stream"}
+{"event_id": "8ee374bc-0995-4d4f-a39a-8c1449aaaf0d", "timestamp": "2016-03-16 16:18:10", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3094, "event": "add_stream"}
+{"event_id": "8ee374bc-0995-4d4f-a39a-8c1449aaaf0d", "timestamp": "2016-03-16 16:18:10", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3094, "event": "add_stream"}
+{"event_id": "61ed6eb4-accb-4cd6-8a73-749d75bf046d", "timestamp": "2016-03-16 16:22:54", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3889, "event": "scroll_stream"}
+{"event_id": "61ed6eb4-accb-4cd6-8a73-749d75bf046d", "timestamp": "2016-03-16 16:22:54", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3889, "event": "scroll_stream"}
+{"event_id": "61ed6eb4-accb-4cd6-8a73-749d75bf046d", "timestamp": "2016-03-16 16:22:54", "extra_data": {"social_network_type": "Twitter"}, "user_id": 3889, "event": "scroll_stream"}
+{"event_id": "e88422a1-69a1-4ac7-875c-794496914189", "timestamp": "2016-03-16 16:31:17", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6733, "event": "scroll_stream"}
+{"event_id": "e88422a1-69a1-4ac7-875c-794496914189", "timestamp": "2016-03-16 16:31:17", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6733, "event": "scroll_stream"}
+{"event_id": "e88422a1-69a1-4ac7-875c-794496914189", "timestamp": "2016-03-16 16:31:17", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 6733, "event": "scroll_stream"}
+{"event_id": "e9817b02-459d-42f6-af24-1ca961b5ea68", "timestamp": "2016-03-16 16:34:33", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2534, "event": "scroll_stream"}
+{"event_id": "e9817b02-459d-42f6-af24-1ca961b5ea68", "timestamp": "2016-03-16 16:34:33", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2534, "event": "scroll_stream"}
+{"event_id": "e9817b02-459d-42f6-af24-1ca961b5ea68", "timestamp": "2016-03-16 16:34:33", "extra_data": {"social_network_type": "Twitter"}, "user_id": 2534, "event": "scroll_stream"}
+{"event_id": "1b3c0d00-87a7-439b-92c5-2407f0252fa5", "timestamp": "2016-03-16 16:35:10", "user_id": 2936, "event": "web_login"}
+{"event_id": "1b3c0d00-87a7-439b-92c5-2407f0252fa5", "timestamp": "2016-03-16 16:35:10", "user_id": 2936, "event": "web_login"}
+{"event_id": "1b3c0d00-87a7-439b-92c5-2407f0252fa5", "timestamp": "2016-03-16 16:35:10", "user_id": 2936, "event": "web_login"}
+{"event_id": "903f46c8-a473-410b-b2fb-b07d15c2f0d7", "timestamp": "2016-03-16 16:42:45", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 362, "event": "message_sent"}
+{"event_id": "903f46c8-a473-410b-b2fb-b07d15c2f0d7", "timestamp": "2016-03-16 16:42:45", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 362, "event": "message_sent"}
+{"event_id": "903f46c8-a473-410b-b2fb-b07d15c2f0d7", "timestamp": "2016-03-16 16:42:45", "extra_data": {"social_network_type": "LinkedIn"}, "user_id": 362, "event": "message_sent"}
+{"event_id": "bd458215-b905-439a-8412-d8b3f26c0f10", "timestamp": "2016-03-16 16:45:12", "user_id": 7749, "event": "ios_logout"}
+{"event_id": "bd458215-b905-439a-8412-d8b3f26c0f10", "timestamp": "2016-03-16 16:45:12", "user_id": 7749, "event": "ios_logout"}
+{"event_id": "bd458215-b905-439a-8412-d8b3f26c0f10", "timestamp": "2016-03-16 16:45:12", "user_id": 7749, "event": "ios_logout"}
+{"event_id": "d7dd170f-b607-409f-81e9-6e697ceac840", "timestamp": "2016-03-16 16:45:46", "extra_data": {"social_network_type": "Twitter"}, "user_id": 8609, "event": "scroll_stream"}

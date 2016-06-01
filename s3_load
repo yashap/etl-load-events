@@ -1,0 +1,67 @@
+#!/usr/bin/env python
+
+import subprocess
+from os import listdir
+from os.path import isfile, join
+import argparse
+
+
+class FileTransfer:
+    def __init__(self, filename, filedir, s3_bucket, s3_prefix):
+        self.local_path = '{filedir}/{filename}'.format(
+            filename=filename,
+            filedir=filedir
+        )
+
+        self.s3_path = 's3://{bucket}/{prefix}/{datepart}/{file}.txt'.format(
+            bucket=s3_bucket,
+            prefix=s3_prefix,
+            datepart=filename[:10].replace('-', '/'),
+            file=filename[10:]
+        )
+
+    def transfer(self, s3_profile):
+        subprocess.check_call(['aws', 's3', 'cp', self.local_path, self.s3_path, '--profile', s3_profile])
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(description='Transfers files from local dir to S3')
+
+    parser.add_argument(
+        '--source_dir', type=str, default='sample-data',
+        help='the dir on your local filesystem to load files from. Default: "sample-data"'
+    )
+
+    parser.add_argument(
+        '--bucket', type=str, default='sodp',
+        help='the S3 bucket to load files to. Default: "sodp"'
+    )
+
+    parser.add_argument(
+        '--prefix', type=str, default='talk',
+        help='the S3 prefix to load files to (i.e. "talk" in "s3://sodp/talk/2016/03/22/aa.txt"). Default: "talk"'
+    )
+
+    parser.add_argument(
+        '--profile', type=str, default='personal-sodp',
+        help='the AWS profile (in ~/.aws/credentials) to use when loading to S3'
+    )
+
+    return parser.parse_args()
+
+
+def list_files(filedir):
+    return [filename for filename in listdir(filedir) if isfile(join(filedir, filename))]
+
+
+def main():
+    args = parse_args()
+    filenames = list_files(args.source_dir)
+
+    for filename in filenames:
+        ft = FileTransfer(filename, args.source_dir, args.bucket, args.prefix)
+        ft.transfer(args.profile)
+
+
+if __name__ == '__main__':
+    main()

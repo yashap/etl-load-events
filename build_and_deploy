@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+sbt assembly &&
+aws lambda update-function-code \
+  --function-name etl-load-events \
+  --zip-file fileb://target/etl-load-events.jar \
+  --profile personal-sodp \
+  --region us-east-1 \
+  --output json

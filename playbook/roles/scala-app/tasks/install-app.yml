@@ -1,0 +1,16 @@
+---
+- name: "ensure project home directory exists"
+  file:
+    path: "{{ project_home }}"
+    state: directory
+    mode: 0755
+    owner: "{{ app_user }}"
+  when: env=="production"
+
+- name: "ensure run script exists"
+  template:
+    src=runner.j2
+    dest="/usr/bin/{{ project }}"
+    mode=0755
+    owner=root
+    group=root

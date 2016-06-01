@@ -1,0 +1,3 @@
+---
+- include: "install-java.yml"
+- include: "install-app.yml"

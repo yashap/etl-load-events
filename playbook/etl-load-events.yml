@@ -1,0 +1,15 @@
+---
+- name: etl-load-events
+  hosts: etl-load-events
+  user: vagrant
+  sudo: true
+  sudo_user: root
+
+  vars:
+    app_user: "vagrant"
+    project: "etl-load-events"
+    project_home: "/var/lib/{{ project }}"
+    run_command: "java -jar {{project_home}}/{{ project }}.jar"
+
+  roles:
+   - { role: scala-app }
