@@ -99,7 +99,7 @@ class ExtractorSpec extends BaseSpec {
   }
 
   "extractEvents" should "extract all events in a sequence" in {
-    val events = Seq(
+    val events = List(
       userEventWithoutExtraData,
       userEventWithExtraData,
       oranizationPayment,
@@ -112,13 +112,13 @@ class ExtractorSpec extends BaseSpec {
 
     // readAt depends on the time the event was read, account for this
     val expectedEvents = ExtractedEvents(
-      Seq(parsedUserEventWithoutExtraData, parsedUserEventWithExtraData),
-      Seq(parsedOrganizationPayment),
-      Seq(parsedOrganizationEvent, parsedOrganizationEvent),
-      Seq(unknownEvent.validate[UnknownEvent].get)
+      List(parsedUserEventWithExtraData, parsedUserEventWithoutExtraData),
+      List(parsedOrganizationPayment),
+      List(parsedOrganizationEvent, parsedOrganizationEvent),
+      List(unknownEvent.validate[UnknownEvent].get)
     )
     val expectedEventsWithFix = expectedEvents.copy(
-      unknownEvents = Seq(expectedEvents.unknownEvents.head.copy(readAt = extractedEvents.unknownEvents.head.readAt))
+      unknownEvents = List(expectedEvents.unknownEvents.head.copy(readAt = extractedEvents.unknownEvents.head.readAt))
     )
 
     extractedEvents shouldBe expectedEventsWithFix

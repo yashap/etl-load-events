@@ -4,14 +4,14 @@ import play.api.libs.json._
 
 object Extractor {
   def extractEvents(jsons: Seq[JsValue]): ExtractedEvents = {
-    val events: Seq[Product with Serializable] = jsons.map(extractEvent)
-
-    ExtractedEvents(
-      events.collect { case e: UserEvent => e },
-      events.collect { case e: OrganizationPayment => e },
-      events.collect { case e: OrganizationEvent => e },
-      events.collect { case e: UnknownEvent => e }
-    )
+    jsons.foldLeft(ExtractedEvents()){ (accum, json) =>
+      extractEvent(json) match {
+        case e: UserEvent => accum.copy(userEvents = e :: accum.userEvents)
+        case e: OrganizationPayment => accum.copy(organizationPayments = e :: accum.organizationPayments)
+        case e: OrganizationEvent => accum.copy(organizationEvents = e :: accum.organizationEvents)
+        case e: UnknownEvent => accum.copy(unknownEvents = e :: accum.unknownEvents)
+      }
+    }
   }
 
   private[model] def extractEvent(json: JsValue): Product with Serializable = {
@@ -29,8 +29,8 @@ object Extractor {
 }
 
 case class ExtractedEvents(
-  userEvents: Seq[UserEvent],
-  organizationPayments: Seq[OrganizationPayment],
-  organizationEvents: Seq[OrganizationEvent],
-  unknownEvents: Seq[UnknownEvent]
+  userEvents: List[UserEvent] = Nil,
+  organizationPayments: List[OrganizationPayment] = Nil,
+  organizationEvents: List[OrganizationEvent] = Nil,
+  unknownEvents: List[UnknownEvent] = Nil
 )
